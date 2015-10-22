@@ -1,3 +1,5 @@
+## forge
+* Forge 1492
 ## mods
 * AdvancedSystemsManager-1.7.10-0.2.0.jar
 * ae2stuff-0.5.0.56-mc1.7.10.jar
@@ -37,7 +39,6 @@
 * ExtraCells-1.7.10-2.2.73b129.jar
 * ExtraTiC-1.7.10-1.4.5.jar
 * extrautilities-1.2.11.jar
-* Farseek-1.0.10.jar
 * fastcraft-1.22-ctest17.jar
 * FloodLights-1.7.10-1.0.3-116.jar
 * forgeessentials-1.7.10-1.4.3.948-client.jar
@@ -57,7 +58,6 @@
 * InventoryTweaks-1.59-dev-152.jar
 * ironchest-1.7.10-6.0.60.741-universal.jar
 * IvToolkit-1.2.jar
-* k4lib-1.7.10-0.1.55-universal.jar
 * LoadingProfiler-MC1.7.10-1.2.jar
 * logisticspipes-0.9.3.61.jar
 * magicalcrops-4.0.0_PUBLIC_BETA_5.jar
@@ -69,8 +69,10 @@
 * Metallurgy-1.7.10-4.0.8.97.jar
 * MetallurgyChisel-1.7.10-1.0.0.11.jar
 * MetallurgyCore-1.7.10-4.0.4.18.jar
+* MineTweaker3-1.7.10-3.0.10B.jar
 * MmmMmmMmmMmm-1.6.jar
 * mobiuscore-1.7.10-1.2.5.jar
+* ModTweaker2-0.9.4.jar
 * natura-1.7.10-2.2.0.1.jar
 * neiaddons-1.12.14.40-mc1.7.10.jar
 * NEIIntegration-MC1.7.10-1.0.13.jar
@@ -100,20 +102,16 @@
 * ReactorCraft 1.7.10 V9b.jar
 * RecurrentComplex-0.9.6.3.jar
 * RefinedRelocation-mc1.7.10-1.1.10.jar
-* resourceloader-1.7.10-1.2.jar
 * Restructured-1.7.10-1.0.1.2.jar
 * rftools-3.50.jar
 * RotaryCraft 1.7.10 V9b.jar
 * RouterReborn-1.7.10-1.2.0.34-universal.jar
-* ServerInfoViewer-1.7.10-1.0.4-universal.jar
 * spiceoflife-1.7.10-1.2.3.jar
 * StorageDrawers-1.7.10-1.6.2.jar
-* Streams-0.1.6.jar
 * supercraftingframe-1.7.10.3.jar
 * tardismod-1.7.10-0.99-246.jar
 * TConstruct-1.7.10-1.8.7.build985.jar
 * TechReborn-0.5.4.932-universal.jar
-* TheErebus-0.3a.jar
 * TiCTooltips-mc1.7.10-1.2.5.jar
 * twilightforest-1.7.10-2.3.7.jar
 * VeinMiner-1.7.10_0.29.1.unknown.jar
