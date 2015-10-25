@@ -17,7 +17,7 @@ The permissions, licences, author and links are here:
 
 ## Used Mod Versions
 The used version numbers are here:
-<https://github.com/BakermanLP/ModpackProjectRETv7/blob/master/versions.md>
+<https://github.com/BakermanLP/ProjectRETv8/blob/master/versions.md>
 
 # FAQ
 ## Whats R.E.T. ?
