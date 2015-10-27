@@ -382,6 +382,13 @@
 - Files: http://minecraft.curseforge.com/mc-mods/228756-iron-chests/files
 - License: https://github.com/progwml6/ironchest/blob/master/README.md
 
+**IvToolkit**
+> Apache License version 2.0
+
+- Author: Ivorius
+- Files: http://minecraft.curseforge.com/projects/ivtoolkit/files
+- License: http://minecraft.curseforge.com/projects/ivtoolkit/license
+
 ## L
 
 ## M
@@ -511,6 +518,13 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/projects/reactorcraft/files
 - License: http://minecraft.curseforge.com/projects/reactorcraft/license
 - Permission: Asked Author
+
+**Recurrent Complex**
+> Granted Attribution (Link to this mod, and mention of my name), you may use this mod in mod packs.
+
+- Author: Ivorius
+- Files: http://minecraft.curseforge.com/projects/recurrent-complex/files
+- License: http://minecraft.curseforge.com/projects/recurrent-complex/license
 
 **Rotarycraft**
 > Public modpacks must obtain permission
