@@ -171,6 +171,13 @@
 - Files: http://minecraft.curseforge.com/projects/cofhcore/files
 - Permission: http://teamcofh.com/permissions/
 
+**Compactor**
+> Minecraft Mod Public License
+
+- Author: bdew
+- Files: http://minecraft.curseforge.com/projects/compacter/files
+- License: https://github.com/bdew/compacter/blob/master/MMPL-1.0.txt
+
 **Computronix**
 > MIT license
 
