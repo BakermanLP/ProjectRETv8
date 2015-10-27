@@ -260,12 +260,26 @@
 - Files: http://minecraft.curseforge.com/mc-mods/222995-eureka/files
 - License: https://github.com/AEnterprise/Eureka/blob/master/LICENCE
 
+**Ewy's Workshop**
+> The MIT License (MIT)
+
+- Authors: EwyBoy
+- Files: http://minecraft.curseforge.com/projects/ewys-workshop/files
+- License: http://minecraft.curseforge.com/projects/ewys-workshop/license
+
 **ExtraCells2**
 > The MIT License (MIT)
 
 - Authors: Leonelf/M3gafr3ak, DrummerMC
 - Files: http://minecraft.curseforge.com/mc-mods/229218-extracells2/files
 - License: https://github.com/ExtraCells/ExtraCells2/blob/rv2/License.txt
+
+**ExtraTiC**
+> You can add this mod to your mod pack, public or private, just add a link to this forum page.
+
+- Authors: JeanGlassmaker
+- Files: http://minecraft.curseforge.com/projects/extratic/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on
 
 **Extra Utilities**
 > You have my permission to use include this mod in any modpack, public or private, provided that credit is given, the source code is not modified and the overall mod pack is distributed free of charge.
@@ -282,6 +296,13 @@
 - Author: Player
 - Files: http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
 - Permission: http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
+
+**FloodLights**
+> GNU Lesser General Public License version 3 (LGPLv3)
+
+- Authors: Keridos
+- Files: http://minecraft.curseforge.com/projects/floodlights/files
+- License: http://minecraft.curseforge.com/projects/floodlights/license
 
 **Forge Essentials**
 > Eclipse Public License - v 1.0
