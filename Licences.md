@@ -62,13 +62,19 @@
 - Files: http://minecraft.curseforge.com/mc-mods/224472-applecore/files
 - Licence: https://github.com/squeek502/AppleCore/blob/master/LICENSE
 
-
 **Applied Energistics 2**
 > GNU Lesser General Public License
 
 - Author: AlgorithmX2
 - Files: http://ae-mod.info/Downloads/
 - Licence: https://github.com/AppliedEnergistics/Applied-Energistics-2/blob/rv2/LICENSE
+
+**AsieLib**
+> MIT license
+
+- Author: asie, Vexatos
+- Files: http://wiki.vex.tty.sh/wiki:asielib
+- Licence: http://wiki.vex.tty.sh/wiki:licensing
 
 ## B
 
@@ -131,6 +137,13 @@
 - Authors: TheCricket26, Drullkus, tterrag1098, warlordjones
 - Files: http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files
 - Licence: https://github.com/TheCricket/Chisel-2/blob/master/LICENSE
+
+**Computronix**
+> MIT license
+
+- Author: asie, Vexatos
+- Files: http://wiki.vex.tty.sh/wiki:computronics
+- Licence: http://wiki.vex.tty.sh/wiki:licensing
 
 ## D
 
