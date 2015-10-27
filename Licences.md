@@ -144,12 +144,32 @@
 - Files: http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files
 - License: https://github.com/TheCricket/Chisel-2/blob/master/LICENSE
 
+**Chunk Animator**
+> Feel free to add this mod to your modpack
+
+- Authors: Lumien
+- Files: http://minecraft.curseforge.com/projects/chunk-animator/files
+- License: http://minecraft.curseforge.com/projects/chunk-animator/license
+
+**ChunkPurge**
+> MIT License
+
+- Authors: Android25
+- Files: http://minecraft.curseforge.com/projects/chunkpurge/files
+- License: http://minecraft.curseforge.com/projects/chunkpurge/license
+
 **CodeChickenCore**
 > You are welcome to include any of my mods in modpacks as long as you provide credit. My name and a link to this page is fine.
 
 - Author: chicken_bones
-- Files: http://chickenbones.net/Pages/links.html
-- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+- Files: http://minecraft.curseforge.com/projects/codechickencore/files
+- Permission: http://minecraft.curseforge.com/projects/codechickencore/license
+
+**CoFHCore**
+> CoFH "Don't Be a Jerk" License
+
+- Files: http://minecraft.curseforge.com/projects/cofhcore/files
+- Permission: http://teamcofh.com/permissions/
 
 **Computronix**
 > MIT license
@@ -440,13 +460,6 @@ minecraft original sources.
 - License: https://github.com/jaquadro/StorageDrawers/blob/master/LICENSE
 
 ## T
-
-**Team CoFH Mods**
-> CoFH "Don't Be a Jerk" License
-
-- Included Mods: CoFH Core and NetherOres
-- Files: http://teamcofh.com/downloads/
-- Permission: http://teamcofh.com/permissions/
 
 **The Spice of Life**
 > Public Domain
