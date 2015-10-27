@@ -163,7 +163,7 @@
 
 - Author: chicken_bones
 - Files: http://minecraft.curseforge.com/projects/codechickencore/files
-- Permission: http://minecraft.curseforge.com/projects/codechickencore/license
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
 
 **CoFHCore**
 > CoFH "Don't Be a Jerk" License
@@ -230,6 +230,27 @@
 - Author: joshiejack
 - Files: http://minecraft.curseforge.com/mc-mods/76612-enchiridion-2/files
 - License: https://github.com/joshiejack/Enchiridion/blob/master/LICENSE
+
+**Ender Storage**
+> You are welcome to include any of my mods in modpacks as long as you provide credit. My name and a link to this page is fine.
+
+- Author: chicken_bones
+- Files: http://minecraft.curseforge.com/projects/ender-storage/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+
+**Ender Zoo**
+> Public Domain
+
+- Author: tterrag1098, CrazyPants
+- Files: http://minecraft.curseforge.com/projects/ender-zoo/files
+- License: http://minecraft.curseforge.com/projects/ender-zoo/license
+
+**EnderCore**
+> Public Domain
+
+- Author: tterrag1098, CrazyPants
+- Files: http://minecraft.curseforge.com/projects/endercore/files
+- License: http://minecraft.curseforge.com/projects/endercore/license
 
 **Eureka**
 > The GNU Lesser General Public License
