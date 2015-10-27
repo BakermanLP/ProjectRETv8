@@ -107,6 +107,12 @@
 - Files: http://minecraft.curseforge.com/projects/brandons-core/files
 - License: http://minecraft.curseforge.com/projects/brandons-core/license
 
+**BuildCraft**
+> Minecraft Mod Public License
+
+- Files: http://www.mod-buildcraft.com/pages/download.html
+- License: https://github.com/BuildCraft/BuildCraft/blob/6.4.x/LICENSE
+
 **BuildCraft Additions**
 > The GNU General Public License 
 
@@ -114,10 +120,9 @@
 - Files: http://minecraft.curseforge.com/mc-mods/221014-buildcraft-additions/files
 - License: https://github.com/AEnterprise/Buildcraft-Additions/blob/multiblockRefinery/LICENCE
 
-**BuildCraft Team Mods**
+**BuildCraft Compat**
 > Minecraft Mod Public License
 
-- Included: BuildCraft & BuildCraftCompat
 - Files: http://www.mod-buildcraft.com/pages/download.html
 - License: https://github.com/BuildCraft/BuildCraft/blob/6.4.x/LICENSE
 
@@ -333,6 +338,13 @@
 - Author: SeNtiMeL
 - Files: http://minecraft.curseforge.com/mc-mods/225903-garden-stuff/files
 - Permission: http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+
+**GrowthCraft Community Edition**
+> If you add this mod or set of mods to your mod-pack, simply post an issue with a list of mods that you have included in your pack. It is that simple.
+
+- Author: Alatyami, Ar97x_. Gwafu, mDiyo, Sunconure11
+- Files: http://minecraft.curseforge.com/projects/growthcraft-community-edition/files
+- Permission: https://github.com/Alatyami/Growthcraft-1.7
 
 ## H
 
@@ -648,6 +660,13 @@ minecraft original sources.
 
 ## P
 
+**PlantMegaPack**
+> Can I use these mods in a mod pack?  Yes.
+
+- Author: 10paktimbits
+- Files: http://10paksmods.net/
+- Permission: http://10paksmods.net/faq.html
+
 **PneumaticCraft**
 > GPLv3
 
@@ -661,6 +680,13 @@ minecraft original sources.
 - Author: bdew
 - Files: http://minecraft.curseforge.com/projects/pressure-pipes/files
 - License: http://minecraft.curseforge.com/projects/pressure-pipes/license
+
+**Primitive Mobs**
+> Everyone who wants to use this in a modpack: Go ahead! Just make sure to give appropriate credit and provide a link to this topic!! Remember I have copyright over these creations!
+
+- Author: Daveyx0
+- Files: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287666-primitive-mobs-v1-0c-updated-10-13-14-its-back
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287666-primitive-mobs-v1-0c-updated-10-13-14-its-back
 
 **Progressive Automation**
 > Full permission is granted to include the mod in any modpack (public or private) provided credit is given
@@ -841,4 +867,11 @@ minecraft original sources.
 - Author: WhiskeyTangoFox
 - Files: http://minecraft.curseforge.com/projects/wtfcore/files
 - Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2365907-whiskytangofoxs-mods-cavebiomes-wtfs-tweaks-wtfs
+
+**Ztones**
+> You have my permission to use this mod in any mod pack, public or private.
+
+- Author: ricijak
+- Files: http://minecraft.curseforge.com/projects/ztones/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v-2-2-1-decorative-blocks-16x
 
