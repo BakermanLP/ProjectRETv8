@@ -1,6 +1,6 @@
 # Used Mods, their Licenses and Permissions
 
-[A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J](#j), K, [L](#l), [M](#m), [N](#n), [O](#o), [P](#p), Q, [R](#r), [S](#s), [T](#t), U, V, [W](#w), X, Y, Z
+[A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J](#j), K, [L](#l), [M](#m), [N](#n), [O](#o), [P](#p), Q, [R](#r), [S](#s), [T](#t), U, [V](#v), [W](#w), X, Y, Z
 
 
 ## A
@@ -391,7 +391,35 @@
 
 ## L
 
+**Logistics Pipes**
+> Minecraft Mod Public License
+
+- Author: RS485, davboecki, theZorro266
+- Files: http://minecraft.curseforge.com/projects/logistics-pipes/files
+- License: http://minecraft.curseforge.com/projects/logistics-pipes/license
+
 ## M
+
+**Magical Crops**
+> Yes, you may use Magical Crops in your mod pack as long as credit is given to Mark719
+
+- Author: Mark719
+- Files: http://minecraft.curseforge.com/projects/magical-crops-core/files
+- Permission: http://minecraft.curseforge.com/projects/magical-crops-core
+
+**MalisisCore**
+> The MIT License
+
+- Author: Ordinastie
+- Files: http://minecraft.curseforge.com/projects/malisiscore/files
+- License: http://minecraft.curseforge.com/projects/malisiscore/license
+
+**MalisisDoor**
+> The MIT License
+
+- Author: Ordinastie
+- Files: http://minecraft.curseforge.com/projects/malisisdoors/files
+- License: http://minecraft.curseforge.com/projects/malisisdoors/license
 
 **Mantle**
 > The MIT License
@@ -399,6 +427,48 @@
 - Author: mDiyo, Boni, Progwml6
 - Files: http://minecraft.curseforge.com/mc-mods/74924-mantle/files
 - License: https://github.com/SlimeKnights/Mantle/blob/master/README.md
+
+**Mariculture**
+> The MIT License
+
+- Author: joshiejack
+- Files: http://minecraft.curseforge.com/projects/mariculture/files
+- License: http://minecraft.curseforge.com/projects/mariculture/license
+
+**McJtyLib**
+> The MIT License
+
+- Author: McJty
+- Files: http://minecraft.curseforge.com/projects/mcjtylib/files
+- License: http://minecraft.curseforge.com/projects/mcjtylib/license
+
+**Metallurgy**
+> GPLv3
+
+- Author: JeanGlassmaker, mssodin28, RebelKeithy, Shadowclaimer, XanderGryphon
+- Files: http://minecraft.curseforge.com/projects/metallurgy/files
+- License: http://minecraft.curseforge.com/projects/metallurgy/license
+
+**Metallurgy Core**
+> LGPLv3
+
+- Author: JeanGlassmaker, mssodin28
+- Files: http://minecraft.curseforge.com/projects/metallurgy-core/files
+- License: http://minecraft.curseforge.com/projects/metallurgy-core/license
+
+**MetallurgyChisel**
+> MMPL
+
+- Author: JeanGlassmaker, Shadowclaimer
+- Files: http://minecraft.curseforge.com/projects/metallurgychisel/files
+- License: http://minecraft.curseforge.com/projects/metallurgychisel/license
+
+**MmmMmmMmmMmm**
+> Public Domain
+
+- Author: boni
+- Files: http://minecraft.curseforge.com/projects/mmmmmmmmmmmm/files
+- License: http://minecraft.curseforge.com/projects/mmmmmmmmmmmm/license
 
 **Minecraft Forge**
 > The user of Minecraft Forge is allowed to redistribute Minecraft Forge in 
@@ -433,6 +503,13 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/220954-modtweaker/files
 - License: https://github.com/jaredlll08/ModTweaker2/blob/master/LICENSE
 
+**MrTJPCore**
+> GPLv3
+
+- Authors: Mr_TJP
+- Files: http://minecraft.curseforge.com/projects/mrtjpcore/files
+- License: http://minecraft.curseforge.com/projects/mrtjpcore/license
+
 ## N
 
 **Natura**
@@ -463,6 +540,12 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/225815-notenoughresources/files
 - License: https://github.com/hilburn/NotEnoughResources/blob/master/LICENSE.md
 
+**NetherOres**
+> CoFH "Don't Be a Jerk" License
+
+- Files: http://minecraft.curseforge.com/projects/netherores/files
+- Permission: http://teamcofh.com/permissions/
+
 **Not Enough Items**
 > You are welcome to include any of my mods in modpacks as long as you provide credit. My name and a link to this page is fine.
 
@@ -477,6 +560,13 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/224614-notenoughkeys/files
 - Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-not-enough-keys-making-pressing-buttons-easier
 
+**Not Enough Resources**
+> “Don’t Be a Jerk”
+
+- Author: Way2muchnoise, hilburn
+- Files: http://minecraft.curseforge.com/projects/notenoughresources/files
+- License: http://minecraft.curseforge.com/projects/notenoughresources/license
+
 ## O
 
 **OpenBlocks**
@@ -486,12 +576,40 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/228816-openblocks/files
 - License: https://github.com/OpenMods/OpenBlocks/blob/master/LICENSE
 
+**OpenComputers**
+> The MIT License (MIT)
+
+- Author: Sangar
+- Files: http://minecraft.curseforge.com/projects/opencomputers/files
+- License: http://minecraft.curseforge.com/projects/opencomputers/license
+
 **OpenModsLib**
 > The MIT License (MIT)
 
 - Author: OpenMods Team
 - Files: http://minecraft.curseforge.com/mc-mods/228815-openmodslib/files
 - License: https://github.com/OpenMods/OpenModsLib/blob/master/LICENSE
+
+**OpenPeripheralAddons**
+> The MIT License (MIT)
+
+- Author: OpenMods Team
+- Files: http://minecraft.curseforge.com/projects/openperipheraladdons/files
+- License: http://minecraft.curseforge.com/projects/openperipheraladdons/license
+
+**OpenPeripheralCore**
+> The MIT License (MIT)
+
+- Author: OpenMods Team
+- Files: http://minecraft.curseforge.com/projects/openperipheralcore/files
+- License: http://minecraft.curseforge.com/projects/openperipheralcore/license
+
+**OpenPeripheralIntegration**
+> The MIT License (MIT)
+
+- Author: OpenMods Team
+- Files: http://minecraft.curseforge.com/projects/openperipheralintegration/files
+- License: http://minecraft.curseforge.com/projects/openperipheralintegration/license
 
 **Opis**
 > Creative Commons Attribution 4.0 International License.
@@ -502,6 +620,27 @@ minecraft original sources.
 
 ## P
 
+**PneumaticCraft**
+> GPLv3
+
+- Author: MineMaarten
+- Files: http://minecraft.curseforge.com/projects/pneumaticcraft/files
+- License: http://minecraft.curseforge.com/projects/pneumaticcraft/license
+
+**Pressure Pipes**
+> Minecraft Mod Public License
+
+- Author: bdew
+- Files: http://minecraft.curseforge.com/projects/pressure-pipes/files
+- License: http://minecraft.curseforge.com/projects/pressure-pipes/license
+
+**Progressive Automation**
+> Full permission is granted to include the mod in any modpack (public or private) provided credit is given
+
+- Author: Vanhal
+- Files: http://minecraft.curseforge.com/projects/progressive-automation-early-miner/files
+- Permission: http://minecraft.curseforge.com/projects/progressive-automation-early-miner/license
+
 **ProjectRed**
 > By default this Mod may only be distributed on its own by the Developers. It may be included in a mod pack with other mods, as long as it is (a)non-profit and (b)legal. URL shorteners or other attempts to make money is strictly forbidden without advance written permission.
 
@@ -510,6 +649,20 @@ minecraft original sources.
 - License: https://github.com/MrTJP/ProjectRed/blob/master/LICENSE.md
 
 ## R
+
+**Railcraft**
+> Explicit permission is no longer required thanks to the great support via Patreon! Meet the above requirements and you are good.
+
+- Author: CovertJaguar
+- Files: http://minecraft.curseforge.com/projects/railcraft/files
+- Permission: http://railcraft.info/wiki/info:license
+
+**Random Things**
+> MIT License
+
+- Author: Lumien
+- Files: http://minecraft.curseforge.com/projects/random-things/files
+- License: http://minecraft.curseforge.com/projects/random-things/license
 
 **Reactorcraft**
 > Public modpacks must obtain permission
@@ -526,6 +679,27 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/projects/recurrent-complex/files
 - License: http://minecraft.curseforge.com/projects/recurrent-complex/license
 
+**Refined Relocation**
+> LGPLv3
+
+- Author: Dynious, BlayTheNinth
+- Files: http://minecraft.curseforge.com/projects/refined-relocation/files
+- License: http://minecraft.curseforge.com/projects/refined-relocation/license
+
+**Restructured**
+> MIT License
+
+- Author: OreCruncher
+- Files: http://minecraft.curseforge.com/projects/restructured/files
+- License: http://minecraft.curseforge.com/projects/restructured/license
+
+**RFTools**
+> MIT License
+
+- Author: McJty
+- Files: http://minecraft.curseforge.com/projects/rftools/files
+- License: http://minecraft.curseforge.com/projects/rftools/license
+
 **Rotarycraft**
 > Public modpacks must obtain permission
 
@@ -533,6 +707,13 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/projects/rotarycraft/files
 - License: http://minecraft.curseforge.com/projects/rotarycraft/license
 - Permission: Asked Author
+
+**Router Reborn**
+> You have permission to use it in any mod pack.
+
+- Author: TomEV
+- Files: http://minecraft.curseforge.com/projects/router-reborn/files
+- Permission: http://minecraft.curseforge.com/projects/router-reborn
 
 ## S
 
@@ -543,6 +724,13 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/223852-storage-drawers/files
 - License: https://github.com/jaquadro/StorageDrawers/blob/master/LICENSE
 
+**Super Crafting Frame**
+> Feel free to use this mod in your modpacks.
+
+- Author: EdgarAllen
+- Files: http://minecraft.curseforge.com/projects/super-crafting-frame/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290201-edgarallens-mods-super-crafting-frame
+
 ## T
 
 **TARDIS Mod**
@@ -552,12 +740,26 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/projects/tardis-mod/files
 - License: http://minecraft.curseforge.com/projects/tardis-mod/license
 
+**TechReborn**
+> Minecraft Mod Public License
+
+- Author: modmuss50, Gigabit101
+- Files: http://minecraft.curseforge.com/projects/techreborn/files
+- License: http://minecraft.curseforge.com/projects/techreborn/license
+
 **The Spice of Life**
 > Public Domain
 
 - Author: squeek502
 - Files: http://minecraft.curseforge.com/mc-mods/220811-the-spice-of-life/files
 - License: https://github.com/squeek502/SpiceOfLife/blob/1.7.10/LICENSE
+
+**The Twilight Forest**
+> You have permission to include the Twilight Forest mod in any mod pack
+
+- Author: Benimatic
+- Files: http://minecraft.curseforge.com/projects/the-twilight-forest/files
+- Permission: http://minecraft.curseforge.com/projects/the-twilight-forest
 
 **TiC Tooltips**
 > Public Domain
@@ -573,6 +775,15 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files
 - License: https://github.com/SlimeKnights/TinkersConstruct/blob/master/README.md
 
+## V
+
+**VeinMiner**
+> LGPLv3
+
+- Author: Portablejim
+- Files: http://minecraft.curseforge.com/projects/veinminer/files
+- License: http://minecraft.curseforge.com/projects/veinminer/license
+
 ## W
 
 **Waila**
@@ -582,16 +793,17 @@ minecraft original sources.
 - Files: http://minecraft.curseforge.com/mc-mods/73488-waila/files
 - License: http://minecraft.curseforge.com/mc-mods/73488-waila/license
 
-**Waila Harvestability**
-> Public Domain
-
-- Author: Squeek502
-- Files: http://minecraft.curseforge.com/mc-mods/79287-waila-harvestability/files
-- License: https://github.com/squeek502/WailaHarvestability/blob/1.7.x/LICENSE
-
 **Waila Plugins**
 > Creative Commons Attribution 4.0 International License.
 
 - Author: tterrag1098
 - Files: http://minecraft.curseforge.com/mc-mods/226119-waila-plugins/files
 - License: https://github.com/tterrag1098/WAILAPlugins/blob/master/LICENSE
+
+**Wawla**
+> If you would like to include this mod as part of a Mod Pack you may do so without obtaining written permission from myself
+
+- Author: Darkhax
+- Files: http://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at
+
