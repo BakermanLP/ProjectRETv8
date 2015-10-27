@@ -137,6 +137,13 @@
 - Files http://minecraft.curseforge.com/projects/catwalks-2/files
 - License: http://minecraft.curseforge.com/projects/catwalks-2/license
 
+**CaveBiomes**
+> Feel free to use any of my mods as part of modpacks- however be aware that anything still in Beta is not guaranteed to be stable.
+
+- Author: WhiskeyTangoFox
+- Files: http://minecraft.curseforge.com/projects/cavebiomes/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2365907-whiskytangofoxs-mods-cavebiomes-wtfs-tweaks-wtfs
+
 **Chisel 2**
 > GNU General Public License
 
@@ -806,4 +813,11 @@ minecraft original sources.
 - Author: Darkhax
 - Files: http://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at/files
 - Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at
+
+**WTFCore**
+> Feel free to use any of my mods as part of modpacks- however be aware that anything still in Beta is not guaranteed to be stable.
+
+- Author: WhiskeyTangoFox
+- Files: http://minecraft.curseforge.com/projects/wtfcore/files
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2365907-whiskytangofoxs-mods-cavebiomes-wtfs-tweaks-wtfs
 
