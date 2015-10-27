@@ -146,7 +146,23 @@
 - Files: http://minecraft.curseforge.com/mc-mods/223565-draconic-evolution/files
 - Permission: http://www.tolkiencraft.com/draconic-evolution/
 
+**DragonAPI**
+> Public modpacks must obtain permission
+
+- Author: Reika
+- Files: http://minecraft.curseforge.com/projects/dragonapi/files
+- Licence: http://minecraft.curseforge.com/projects/dragonapi/license
+- Permission: Asked Author
+
 ## E
+
+**Electricraft**
+> Public modpacks must obtain permission
+
+- Author: Reika
+- Files: http://minecraft.curseforge.com/projects/electricraft/files
+- Licence: http://minecraft.curseforge.com/projects/electricraft/license
+- Permission: Asked Author
 
 **Enchiridion**
 > The MIT License (MIT)
@@ -364,6 +380,22 @@ minecraft original sources.
 - Licence: https://github.com/MrTJP/ProjectRed/blob/master/LICENSE.md
 
 ## R
+
+**Reactorcraft**
+> Public modpacks must obtain permission
+
+- Author: Reika
+- Files: http://minecraft.curseforge.com/projects/reactorcraft/files
+- Licence: http://minecraft.curseforge.com/projects/reactorcraft/license
+- Permission: Asked Author
+
+**Rotarycraft**
+> Public modpacks must obtain permission
+
+- Author: Reika
+- Files: http://minecraft.curseforge.com/projects/rotarycraft/files
+- Licence: http://minecraft.curseforge.com/projects/rotarycraft/license
+- Permission: Asked Author
 
 ## S
 
