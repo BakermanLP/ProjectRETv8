@@ -137,20 +137,19 @@
 - Files http://minecraft.curseforge.com/projects/catwalks-2/files
 - License: http://minecraft.curseforge.com/projects/catwalks-2/license
 
-**Chicken Bones Mods**
-> You are welcome to include any of my mods in modpacks as long as you provide credit. My name and a link to this page is fine.
-
-- Author: chicken_bones
-- Included Mods: CodeChickenCore and NotEnoughItems.
-- Files: http://chickenbones.net/Pages/links.html
-- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
-
 **Chisel 2**
 > GNU General Public License
 
 - Authors: TheCricket26, Drullkus, tterrag1098, warlordjones
 - Files: http://minecraft.curseforge.com/mc-mods/225236-chisel-2/files
 - License: https://github.com/TheCricket/Chisel-2/blob/master/LICENSE
+
+**CodeChickenCore**
+> You are welcome to include any of my mods in modpacks as long as you provide credit. My name and a link to this page is fine.
+
+- Author: chicken_bones
+- Files: http://chickenbones.net/Pages/links.html
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
 
 **Computronix**
 > MIT license
@@ -366,6 +365,13 @@ minecraft original sources.
 - Authors: Way2muchnoise, hilburn
 - Files: http://minecraft.curseforge.com/mc-mods/225815-notenoughresources/files
 - License: https://github.com/hilburn/NotEnoughResources/blob/master/LICENSE.md
+
+**Not Enough Items**
+> You are welcome to include any of my mods in modpacks as long as you provide credit. My name and a link to this page is fine.
+
+- Author: chicken_bones
+- Files: http://chickenbones.net/Pages/links.html
+- Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
 
 **Not Enough Keys**
 > Yes, yes, a thousand times YES, you can use this in your public/private modpack, just don't forget to let me know you've done it with a comment/tweet and don't fall behind on version updates :)
