@@ -187,6 +187,13 @@
 
 ## D
 
+**darkcore**
+> You can: Distribute jars downloaded from Curse provided this license is applied to those downloads
+
+- Author: ShaneDarkholme
+- Files: http://minecraft.curseforge.com/projects/darkcore/files
+- License: http://minecraft.curseforge.com/projects/darkcore/license
+
 **Draconic Evolution**
 > You CAN:
 > - Use this mod in private or public non profit mod packs
@@ -467,6 +474,13 @@ minecraft original sources.
 - License: https://github.com/jaquadro/StorageDrawers/blob/master/LICENSE
 
 ## T
+
+**TARDIS Mod**
+> You can: Distribute jars downloaded from Curse provided this license is applied to those downloads
+
+- Author: ShaneDarkholme
+- Files: http://minecraft.curseforge.com/projects/tardis-mod/files
+- License: http://minecraft.curseforge.com/projects/tardis-mod/license
 
 **The Spice of Life**
 > Public Domain
