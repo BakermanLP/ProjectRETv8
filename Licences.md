@@ -327,6 +327,13 @@
 - Files: http://minecraft.curseforge.com/mc-mods/225903-garden-stuff/files
 - License: https://github.com/jaquadro/GardenCollection/blob/master/LICENSE
 
+**Gravitation Suite**
+> For all those who want to use my addons in their mods pack, I give permission to use all my addons.
+
+- Author: SeNtiMeL
+- Files: http://minecraft.curseforge.com/mc-mods/225903-garden-stuff/files
+- Permission: http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+
 ## H
 
 **Hardcore Ender Expansion**
@@ -367,6 +374,13 @@
 - Author: UnwrittenFun
 - Files: http://minecraft.curseforge.com/projects/immersive-integration/files
 - License: http://minecraft.curseforge.com/projects/immersive-integration/license
+
+**IndustrialCraft**
+>  Effective from now on, you may redistribute IC²s original download (in any combination with other files or mods) in the form of 'ModPack's, without requesting explicit permission in advance
+
+- Author: Alblaka
+- Files: http://jenkins.ic2.player.to/job/IC2_experimental/
+- Permission: http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
 
 **INpureCore**
 > The IDGAF License
@@ -573,6 +587,13 @@ minecraft original sources.
 - Author: Way2muchnoise, hilburn
 - Files: http://minecraft.curseforge.com/projects/notenoughresources/files
 - License: http://minecraft.curseforge.com/projects/notenoughresources/license
+
+**Nuclear Control 2**
+> BSD License
+
+- Author: Xbony2, dmf444, KasenTH
+- Files: http://minecraft.curseforge.com/projects/nuclear-control-2/files
+- License: http://minecraft.curseforge.com/projects/nuclear-control-2/license
 
 ## O
 
