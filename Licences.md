@@ -347,6 +347,20 @@
 - Files: http://minecraft.curseforge.com/mc-mods/223248-iguanas-tinker-tweaks/files
 - License: http://minecraft.curseforge.com/mc-mods/223248-iguanas-tinker-tweaks/license
 
+**Immersive Engineering**
+> Go wild, just remember that it's in beta ;D
+
+- Author: BluSunrize, Mr_Hazard
+- Files: http://minecraft.curseforge.com/projects/immersive-engineering/files
+- License: http://minecraft.curseforge.com/projects/immersive-engineering/license
+
+**Immersive Integration**
+> You can use it in any modpacks.
+
+- Author: UnwrittenFun
+- Files: http://minecraft.curseforge.com/projects/immersive-integration/files
+- License: http://minecraft.curseforge.com/projects/immersive-integration/license
+
 **INpureCore**
 > The IDGAF License
 
