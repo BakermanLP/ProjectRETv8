@@ -1,6 +1,6 @@
 # Used Mods, their Licenses and Permissions
 
-[A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), [J](#j), K, [L](#l), [M](#m), [N](#n), [O](#o), [P](#p), Q, [R](#r), [S](#s), [T](#t), U, [V](#v), [W](#w), X, Y, Z
+[A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g), [H](#h), [I](#i), J, K, [L](#l), [M](#m), [N](#n), [O](#o), [P](#p), Q, [R](#r), [S](#s), [T](#t), U, [V](#v), [W](#w), X, Y, [Z](#z)
 
 
 ## A
@@ -867,6 +867,8 @@ minecraft original sources.
 - Author: WhiskeyTangoFox
 - Files: http://minecraft.curseforge.com/projects/wtfcore/files
 - Permission: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2365907-whiskytangofoxs-mods-cavebiomes-wtfs-tweaks-wtfs
+
+## Z
 
 **Ztones**
 > You have my permission to use this mod in any mod pack, public or private.
