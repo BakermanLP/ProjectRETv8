@@ -38,7 +38,7 @@
 
 - Authors: TTFTCUTS
 - Files: http://minecraft.curseforge.com/projects/alternate-terrain-generation/files
-- License: http://minecraft.curseforge.com/projects/alternate-terrain-generation/license
+- Permission: <https://github.com/BakermanLP/ProjectRETv8/blob/master/permissions/atg.png>
 
 **Another One Bites the Dust**
 > Feel free to use this mod in any mod pack, public or private. Just dont get credit for my work.

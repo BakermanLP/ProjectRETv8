@@ -4,7 +4,7 @@
 
 **Config Changes**
 
-**Mod deletion
+**Mod deletion**
 - Farseek-1.0.10.jar
 - k4lib-1.7.10-0.1.55-universal.jar
 - resourceloader-1.7.10-1.2.jar
@@ -18,7 +18,7 @@
 
 **Config Changes**
 
-**Mod deletion
+**Mod deletion**
 - CollectiveFramework-1.0.0-132.jar
 - DoomlikeDungeons-1.8.5-MC1.7.10.jar
 - ServerQueryExtender-1.7.10-1.0.7-universal.jar
@@ -32,7 +32,7 @@
 
 **Config Changes**
 
-**Mod deletion
+**Mod deletion**
 - BetterFps-1.0.1.jar
 - colorchat-1.7.10-0.1.37-universal.jar
 - CustomMainMenu-MC1.7.10-1.8.jar
