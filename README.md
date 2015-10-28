@@ -19,8 +19,8 @@ The permissions, licences, author and links are here:
 The used version numbers are here:
 <https://github.com/BakermanLP/ProjectRETv8/blob/master/versions.md>
 
-# FAQ
-## Whats R.E.T. ?
+## FAQ
+### Whats R.E.T. ?
 * Retired
 * Extremly
 * Technically
