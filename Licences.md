@@ -224,7 +224,7 @@
 - Author: Reika
 - Files: http://minecraft.curseforge.com/projects/dragonapi/files
 - License: http://minecraft.curseforge.com/projects/dragonapi/license
-- Permission: Asked Author
+- Permission: <https://github.com/BakermanLP/ProjectRETv8/blob/master/permissions/reika.png>
 
 ## E
 
@@ -234,7 +234,7 @@
 - Author: Reika
 - Files: http://minecraft.curseforge.com/projects/electricraft/files
 - License: http://minecraft.curseforge.com/projects/electricraft/license
-- Permission: Asked Author
+- Permission: <https://github.com/BakermanLP/ProjectRETv8/blob/master/permissions/reika.png>
 
 **Enchiridion**
 > The MIT License (MIT)
@@ -724,7 +724,7 @@ minecraft original sources.
 - Author: Reika
 - Files: http://minecraft.curseforge.com/projects/reactorcraft/files
 - License: http://minecraft.curseforge.com/projects/reactorcraft/license
-- Permission: Asked Author
+- Permission: <https://github.com/BakermanLP/ProjectRETv8/blob/master/permissions/reika.png>
 
 **Recurrent Complex**
 > Granted Attribution (Link to this mod, and mention of my name), you may use this mod in mod packs.
@@ -760,7 +760,7 @@ minecraft original sources.
 - Author: Reika
 - Files: http://minecraft.curseforge.com/projects/rotarycraft/files
 - License: http://minecraft.curseforge.com/projects/rotarycraft/license
-- Permission: Asked Author
+- Permission: <https://github.com/BakermanLP/ProjectRETv8/blob/master/permissions/reika.png>
 
 **Router Reborn**
 > You have permission to use it in any mod pack.

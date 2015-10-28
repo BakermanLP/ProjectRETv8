@@ -1,5 +1,3 @@
-## forge
-* Forge 1492
 ## mods
 * AdvancedSystemsManager-1.7.10-0.2.0.jar
 * ae2stuff-0.5.0.56-mc1.7.10.jar
