@@ -1,0 +1,61 @@
+{
+    "minicio": {
+        "template": "uniform",
+        "block": {
+            "name": "magicalcrops:MinicioOre",
+            "metadata": 0
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            6
+        ]
+    },
+    "minicio_nether": {
+        "template": "uniform",
+        "block": {
+            "name": "magicalcrops:MinicioOreNether",
+            "metadata": 0
+        },
+        "material": "minecraft:netherrack",
+        "clusterSize": 6,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "minicio_end": {
+        "template": "uniform",
+        "block": {
+            "name": "magicalcrops:MinicioOreEnd",
+            "metadata": 0
+        },
+        "material": "minecraft:end_stone",
+        "clusterSize": 7,
+        "numClusters": 5,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    }
+
+}

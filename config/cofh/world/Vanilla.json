@@ -1,0 +1,263 @@
+{
+    "dirt": {
+        "template": "uniform",
+        "block": "dirt",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 20,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "coal1": {
+        "template": "uniform",
+		"block": [
+            {"name": "coal_ore", "weight": 79},
+            {"name": "denseores:block0", "metadata": 6, "weight": 20},
+            {"name": "diamond_ore", "weight": 1}
+		],
+        "material": "stone",
+        "clusterSize": 20,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "iron1": {
+        "template": "normal",
+        "block": [
+            {"name": "iron_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 0, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 17,
+        "numClusters": 6,
+        "meanHeight": 48,
+        "maxVariance": 13,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "iron2": {
+        "template": "uniform",
+        "block": "iron_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 64,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "gold1": {
+        "template": "normal",
+        "block": [
+            {"name": "gold_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 1, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 2,
+        "meanHeight": 18,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "goldTrace": {
+        "template": "uniform",
+        "block": "gold_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 32,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+
+    "RedstoneSpike": {
+		"template": { "type": "normal", "generator": "spike" },
+        "block": [
+            {"name": "redstone_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 5, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "numClusters": 1,
+        "meanHeight": 0,
+        "maxVariance": 16,
+        "minHeight": 16,
+        "heightVariance": 8,
+        "largeSpikes": true,
+        "largeSpikeChance": 5,
+        "minLargeSpikeHeightGain": 8,
+        "maxLargeSpikeHeightVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+
+/*
+    "redstone1": {
+        "template": "normal",
+        "block": "redstone_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 16,
+        "meanHeight": 13,
+        "maxVariance": 6,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+*/
+    "diamond1": {
+        "template": "uniform",
+        "block": [
+            {"name": "diamond_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 3, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 2,
+        "minHeight": 7,
+        "maxHeight": 15,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+	"emerald1": {
+        "template": "uniform",
+        "block": [
+            {"name": "emerald_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 4, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 2,
+        "minHeight": 6,
+        "maxHeight": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+/*
+    "lapis1": {
+        "template": "normal",
+        "block": "lapis_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 2,
+        "meanHeight": 5,
+        "maxVariance": 14,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+*/
+    "LapisSpike": {
+		"template": { "type": "normal", "generator": "spike" },
+        "block": [
+            {"name": "lapis_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 2, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "numClusters": 1,
+        "meanHeight": 0,
+        "maxVariance": 16,
+        "minHeight": 16,
+        "heightVariance": 8,
+        "largeSpikes": true,
+        "largeSpikeChance": 5,
+        "minLargeSpikeHeightGain": 8,
+        "maxLargeSpikeHeightVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "quartz": {
+        "template": "uniform",
+        "block": [
+            {"name": "quartz_ore", "weight": 80},
+            {"name": "denseores:block0", "metadata": 7, "weight": 20}
+        ],
+        "material": "minecraft:netherrack",
+        "clusterSize": 13,
+        "numClusters": 16,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}

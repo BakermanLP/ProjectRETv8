@@ -1,0 +1,24 @@
+{
+    "IC2Uranium": {
+        "template": "uniform",
+        "block": [
+            {"name": "IC2:blockOreUran", "metadata": 0, "weight": 80},
+            {"name": "denseores:block0", "metadata": 10, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 12,
+        "numClusters": 1,
+        "minHeight": 4,
+        "maxHeight": 24,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

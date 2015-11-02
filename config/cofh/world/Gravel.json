@@ -1,0 +1,26 @@
+{
+    "gravel": {
+        "template": "uniform",
+        "block": [
+            {"name": "minecraft:gravel", "weight": 89},
+            {"name": "TConstruct:GravelOre", "weight": 3},
+            {"name": "TConstruct:GravelOre", "metadata": 1, "weight": 1},
+            {"name": "TConstruct:GravelOre", "metadata": 2, "weight": 2},
+            {"name": "TConstruct:GravelOre", "metadata": 3, "weight": 2},
+            {"name": "TConstruct:GravelOre", "metadata": 4, "weight": 2}
+        ],
+        "material": "stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

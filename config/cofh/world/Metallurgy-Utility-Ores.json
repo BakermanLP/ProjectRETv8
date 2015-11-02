@@ -1,0 +1,117 @@
+{
+    "sulfur": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:utility.ore",
+            "metadata": 0
+        },
+        "clusterSize": 5,
+        "numClusters": 3,
+        "minHeight": 5,
+        "maxHeight": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "phosphorite": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:utility.ore",
+            "metadata": 1
+        },
+        "clusterSize": 5,
+        "numClusters": 3,
+        "minHeight": 32,
+        "maxHeight": 45,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "saltpeter": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:utility.ore",
+            "metadata": 2
+        },
+        "clusterSize": 5,
+        "numClusters": 3,
+        "minHeight": 48,
+        "maxHeight": 63,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "magnesium": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:utility.ore",
+            "metadata": 3
+        },
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 3,
+        "minHeight": 51,
+        "maxHeight": 65,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "bitumen": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:utility.ore",
+            "metadata": 4
+        },
+        "clusterSize": 5,
+        "numClusters": 3,
+        "minHeight": 32,
+        "maxHeight": 45,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "potash": {
+        "template": "uniform",
+        "block": {
+            "name": "Metallurgy:utility.ore",
+            "metadata": 5
+        },
+        "clusterSize": 5,
+        "numClusters": 3,
+        "minHeight": 23,
+        "maxHeight": 32,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

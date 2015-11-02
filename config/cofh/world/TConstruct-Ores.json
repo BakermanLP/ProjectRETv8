@@ -1,0 +1,84 @@
+{
+    "aluminum": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 5
+        },
+        "clusterSize": 9,
+        "numClusters": 5,
+        "minHeight": 44,
+        "maxHeight": 62,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "aluminumTrace": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 8,
+        "minHeight": 48,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "cobalt": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 1
+        },
+        "material": [
+            "minecraft:netherrack",
+            "minecraft:stone"
+        ],
+        "clusterSize": 2,
+        "numClusters": 1,
+        "minHeight": 45,
+        "maxHeight": 65,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+    "ardite": {
+        "template": "uniform",
+        "block": {
+            "name": "TConstruct:SearedBrick",
+            "metadata": 2
+        },
+        "material": [
+            "minecraft:netherrack",
+            "minecraft:stone"
+        ],
+        "clusterSize": 2,
+        "numClusters": 1,
+        "minHeight": 45,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    }
+}

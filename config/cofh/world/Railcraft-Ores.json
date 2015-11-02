@@ -1,0 +1,55 @@
+{
+    "firestone_ore": {
+        "template": "underfluid",
+        "block": { "name": "Railcraft:ore", "metadata": 5 },
+        "material": "minecraft:stone",
+        "chunkChance": 16,
+        "clusterSize": 1,
+        "numClusters": 4,
+        "genFluid": "minecraft:lava",
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ 1 ]
+    },
+    "abyssal": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:cube",
+            "metadata": 6
+        },
+        "clusterSize": 24,
+        "numClusters": 1,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            6
+        ]
+    },
+    "quarried": {
+        "template": "uniform",
+        "block": {
+            "name": "Railcraft:cube",
+            "metadata": 7
+        },
+        "clusterSize": 24,
+        "numClusters": 1,
+        "minHeight": 64,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            6
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "andesite": {
+        "template": { "type": "normal", "generator": "plate" },
+        "block": "chisel:andesite",
+        "material": "minecraft:stone",
+        "chunkChance": 128,
+        "clusterSize": 6,
+        "numClusters": 4,
+        "meanHeight": 8,
+        "maxVariance": 32,
+		"retrogen": "false",
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    },
+    "diorite": {
+        "template": "normal",
+        "block": "chisel:diorite",
+        "material": "minecraft:stone",
+        "chunkChance": 2,
+        "clusterSize": 32,
+        "numClusters": 2,
+        "meanHeight": 16,
+        "maxVariance": 16,
+		"retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            { "type": "dictionary", "entry": "HILLS" },
+            { "type": "dictionary", "entry": "MOUNTAIN" }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    },
+    "granite": {
+        "template": "uniform",
+        "block": "chisel:granite",
+        "material": "minecraft:stone",
+        "chunkChance": 8,
+        "clusterSize": 32,
+        "numClusters": 4,
+        "minHeight": 32,
+        "maxHeight": 255,
+		"retrogen": "false",
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    },
+    "limestone": {
+        "template": { "type": "uniform", "generator": "plate" },
+        "block": [
+            { "name": "chisel:limestone", "weight": 90 }
+        ],
+        "material": "minecraft:gravel",
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 64,
+		"retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            { "type": "dictionary", "entry": "OCEAN" },
+            { "type": "dictionary", "entry": "RIVER" }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    },
+    "marble": {
+        "template": "normal",
+        "block": "chisel:marble",
+        "material": "minecraft:stone",
+        "chunkChance": 64,
+        "clusterSize": 16,
+        "numClusters": 4,
+        "meanHeight": 96,
+        "maxVariance": 64,
+        "count": 1,
+		"retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            { "type": "temperature", "entry": "WARM" }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    }
+}

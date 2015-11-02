@@ -1,0 +1,62 @@
+{
+    "platinum1": {
+        "template": "uniform",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 2, "weight": 80},
+            {"name": "denseores:block5", "metadata": 8, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 2,
+        "minHeight": 6,
+        "maxHeight": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "zinc1": {
+        "template": "normal",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 0, "weight": 80},
+            {"name": "denseores:block5", "metadata": 6, "weight": 20}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 10,
+        "numClusters": 4,
+        "meanHeight": 58,
+        "maxVariance": 7,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+    "zinc2": {
+        "template": "uniform",
+        "block": [
+            {"name": "Metallurgy:precious.ore", "metadata": 0, "weight": 95},
+            {"name": "denseores:block5", "metadata": 6, "weight": 5}
+        ],
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 5,
+        "minHeight": 64,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

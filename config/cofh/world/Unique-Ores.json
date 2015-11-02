@@ -1,0 +1,34 @@
+{
+    "river_gold": {
+        "template": "uniform",
+        "block": { "name": "TConstruct:GravelOre", "metadata": 1 },
+        "material": "minecraft:gravel",
+        "clusterSize": 1,
+        "numClusters": 4,
+        "minHeight": 56,
+        "maxHeight": 72,
+		"retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            { "type": "dictionary", "entry": "RIVER" }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    },
+    "river_iron": {
+        "template": "uniform",
+        "block": { "name": "TConstruct:GravelOre", "metadata": 1 },
+        "material": "minecraft:gravel",
+        "clusterSize": 1,
+        "numClusters": 2,
+        "minHeight": 56,
+        "maxHeight": 72,
+		"retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            { "type": "dictionary", "entry": "RIVER" }
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [ -1, 1 ]
+    }
+}
