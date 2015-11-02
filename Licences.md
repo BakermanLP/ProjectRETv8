@@ -344,7 +344,7 @@
 
 - Author: Alatyami, Ar97x_. Gwafu, mDiyo, Sunconure11
 - Files: http://minecraft.curseforge.com/projects/growthcraft-community-edition/files
-- Permission: https://github.com/Alatyami/Growthcraft-1.7
+- Permission: https://github.com/Alatyami/Growthcraft-1.7/wiki/Modpacks-with-Growthcraft
 
 ## H
 
