@@ -18,6 +18,11 @@ val tConstructSmelteryFuels = [
   <liquid:fuel>,
   <liquid:oil>,
   <liquid:ethanol>,
+  <liquid:fluidnitrocoalfuel>,
+  <liquid:fluidnitrofuel>,
+  <liquid:fluidheliumplasma>,
+  <liquid:kerosene>,
+#  <liquid:rc ethanol>,
 ] as ILiquidStack[];
 
 # Temperature & Duration => [ <temp>, <duration> ]
@@ -25,8 +30,13 @@ val tConstructSmelteryFuelTemperatures = [
   [ 1300, 80 ],
   [ 1300, 80 ],
   [ 1300, 80 ],
-  [ 1300, 40 ],
-  [ 1300, 40 ],
+  [ 1300, 80 ],
+  [ 1300, 80 ],
+  [ 3000, 80 ],
+  [ 3000, 80 ],
+  [ 20000, 80 ],
+  [ 3000, 80 ],
+#  [ 3000, 80 ],
 ] as int[][];
 
 # Tooltips => [ <fluidBlock>, <fluidBucket> ]
@@ -37,6 +47,11 @@ val tConstructSmelteryFuelTooltips = [
   [ <BuildCraft|Energy:blockFuel>,      <BuildCraft|Energy:bucketFuel> ],
   [ <BuildCraft|Energy:blockOil>,       <BuildCraft|Energy:bucketOil> ],
   [ <BuildCraft|Energy:blockFuel>,      <ImmersiveEngineering:fluidContainers:5> ],
+  [ <techreborn:techreborn_techreborn.nitrocoalfuel>,      <techreborn:bucketnitrocoalfuel> ],
+  [ <techreborn:techreborn_techreborn.nitrofuel>,      <techreborn:bucketnitrofuel> ],
+  [ <techreborn:techreborn_techreborn.heliumplasma>,      <techreborn:bucketheliumplasma> ],
+  [ <PneumaticCraft:kerosene>,      <PneumaticCraft:keroseneBucket> ],
+#  [ <BuildCraft|Energy:blockFuel>,      <RotaryCraft:rotarycraft_item_bucket:2> ],
 ] as IItemStack[][];
 
 ########################################################################################################################
