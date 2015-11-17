@@ -62,13 +62,6 @@ val FluixSeeds = <magicalcrops:FluixSeeds>;
 val ManyullynSeeds = <magicalcrops:ManyullynSeeds>;
 val SaltpeterSeeds = <magicalcrops:SaltpeterSeeds>;
 val SteelSeeds = <magicalcrops:SteelSeeds>;
-val AirshardSeeds = <magicalcrops:AirshardSeeds>;
-val WatershardSeeds = <magicalcrops:WatershardSeeds>;
-val FireshardSeeds = <magicalcrops:FireshardSeeds>;
-val EarthshardSeeds = <magicalcrops:EarthshardSeeds>;
-val EntropyshardSeeds = <magicalcrops:EntropyshardSeeds>;
-val OrdershardSeeds = <magicalcrops:OrdershardSeeds>;
-val AmberSeeds = <magicalcrops:AmberSeeds>;
 val DraconiumSeeds = <magicalcrops:DraconiumSeeds>;
 
 #Agricraft
