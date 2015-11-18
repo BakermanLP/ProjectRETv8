@@ -6,6 +6,42 @@ import minetweaker.data.IData;
 import minetweaker.item.IItemStack;
 import minetweaker.liquid.ILiquidStack;
 
+
+###
+# Items
+###
+
+val mcChest = <minecraft:chest>;
+val ironChest = <IronChest:BlockIronChest>;
+val goldChest = <IronChest:BlockIronChest:1>;
+val diamondChest = <IronChest:BlockIronChest:2>;
+val copperChest = <IronChest:BlockIronChest:3>;
+val silverChest = <IronChest:BlockIronChest:4>;
+val crystalChest = <IronChest:BlockIronChest:5>;
+val obsidianChest = <IronChest:BlockIronChest:6>;
+
+###
+# Liquids
+###
+
+val lqIron   = <liquid:iron.molten>;
+val lqCopper = <liquid:copper.molten>;
+val lqGold   = <liquid:gold.molten>;
+val lqSilver = <liquid:silver.molten>;
+val lqObsidian = <liquid:obsidian.molten>;
+val lqGlass  = <liquid:glass.molten>;
+
+###
+# Casting Basin
+###
+
+mods.tconstruct.Casting.addBasinRecipe( copperChest, lqCopper * 1152, mcChest, true, 75 );
+mods.tconstruct.Casting.addBasinRecipe( ironChest, lqIron * 1152, mcChest, true, 75 );
+mods.tconstruct.Casting.addBasinRecipe( silverChest, lqSilver * 1152, mcChest, true, 75 );
+mods.tconstruct.Casting.addBasinRecipe( goldChest, lqGold * 1152, mcChest, true, 75 );
+mods.tconstruct.Casting.addBasinRecipe( obsidianChest, lqObsidian * 1152, diamondChest, true, 75 );
+mods.tconstruct.Casting.addBasinRecipe( crystalChest, lqGlass * 4000, diamondChest, true, 75 );
+
 ###
 # Smeltery - Fuels
 ###
@@ -47,9 +83,9 @@ val tConstructSmelteryFuelTooltips = [
   [ <BuildCraft|Energy:blockFuel>,      <BuildCraft|Energy:bucketFuel> ],
   [ <BuildCraft|Energy:blockOil>,       <BuildCraft|Energy:bucketOil> ],
   [ <BuildCraft|Energy:blockFuel>,      <ImmersiveEngineering:fluidContainers:5> ],
-  [ <techreborn:techreborn_techreborn.nitrocoalfuel>,      <techreborn:bucketnitrocoalfuel> ],
+  [ <techreborn:techreborn_techreborn.nitrocoalfuel>,  <techreborn:bucketnitrocoalfuel> ],
   [ <techreborn:techreborn_techreborn.nitrofuel>,      <techreborn:bucketnitrofuel> ],
-  [ <techreborn:techreborn_techreborn.heliumplasma>,      <techreborn:bucketheliumplasma> ],
+  [ <techreborn:techreborn_techreborn.heliumplasma>,   <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluidheliumplasma", Amount: 1000}}) ],
   [ <PneumaticCraft:kerosene>,      <PneumaticCraft:keroseneBucket> ],
 #  [ <BuildCraft|Energy:blockFuel>,      <RotaryCraft:rotarycraft_item_bucket:2> ],
 ] as IItemStack[][];
