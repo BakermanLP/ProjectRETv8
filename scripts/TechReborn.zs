@@ -25,7 +25,7 @@ val ic2Circuit = <IC2:itemPartCircuit>;
 val ic2AdvCircuit = <IC2:itemPartCircuitAdv>;
 val ic2ItemCable = <IC2:itemCable>;
 val ic2Wrench = <IC2:itemToolWrench>;
-val ic2LapotronCrystal = <IC2:itemBatLamaCrystal>;
+val ic2LapotronCrystal = <IC2:itemBatLamaCrystal:*>.withTag({*});
 # val trMachineParts = <techreborn:part:36>;
 
 val trAdvancedCircuitParts = <techreborn:part:0>;
@@ -113,7 +113,7 @@ mods.techreborn.fusionReactor.addRecipe( deuteriumCell, tritiumCell, heliumCell 
 
 mods.techreborn.fusionReactor.addRecipe( deuteriumCell, deuteriumCell, tritiumCell ,40000000,10000,1200);
 
-mods.techreborn.fusionReactor.addRecipe( helium3Cell , deuteriumCell, heliumCell ,60000000,60000,1200);
+mods.techreborn.fusionReactor.addRecipe( helium3Cell , deuteriumCell, heliumCell ,60000000,60000,1500);
 
 mods.techreborn.fusionReactor.addRecipe( tritiumCell , tritiumCell, heliumCell ,40000000,30000,1200);
 
