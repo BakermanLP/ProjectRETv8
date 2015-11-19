@@ -85,7 +85,7 @@ val tConstructSmelteryFuelTooltips = [
   [ <BuildCraft|Energy:blockFuel>,      <ImmersiveEngineering:fluidContainers:5> ],
   [ <techreborn:techreborn_techreborn.nitrocoalfuel>,  <techreborn:bucketnitrocoalfuel> ],
   [ <techreborn:techreborn_techreborn.nitrofuel>,      <techreborn:bucketnitrofuel> ],
-  [ <techreborn:techreborn_techreborn.heliumplasma>,   <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluidheliumplasma", Amount: 1000}}) ],
+  [ <techreborn:techreborn_techreborn.heliumplasma>,   <techreborn:bucketheliumplasma> ],
   [ <PneumaticCraft:kerosene>,      <PneumaticCraft:keroseneBucket> ],
 #  [ <BuildCraft|Energy:blockFuel>,      <RotaryCraft:rotarycraft_item_bucket:2> ],
 ] as IItemStack[][];
