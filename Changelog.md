@@ -49,10 +49,10 @@
 - logisticspipes-0.9.3.69.jar
 - malisiscore-1.7.10-0.13.1.jar
 - malisisdoors-1.7.10-1.12.2.jar
-- mcjtylib-1.7.1.jar
+- mcjtylib-1.8.0.jar
 - MmmMmmMmmMmm-1.7.10-1.9.jar
 - PneumaticCraft-1.7.10-1.12.1-144-universal.jar
-- rftools-4.11.jar
+- rftools-4.12.jar
 - SpiceOfLife-mc1.7.10-1.3.0.jar
 - TechReborn-0.7.0.1046-universal.jar
 - VeinMiner-1.7.10_0.30.1.bobross.jar

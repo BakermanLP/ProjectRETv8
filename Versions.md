@@ -1,5 +1,3 @@
-## forge
-* forge-1.7.10-10.13.4.1558-1.7.10-universal.zip
 ## mods
 * AdvancedSystemsManager-1.7.10-0.2.0.jar
 * ae2stuff-0.5.0.56-mc1.7.10.jar
@@ -49,6 +47,7 @@
 * FloodLights-1.7.10-1.0.3-116.jar
 * Fluxed-Core-1.0.4.jar
 * forgeessentials-1.7.10-1.4.3.1021-client.jar
+* ForgeMultipart-1.7.10-1.2.0.345-universal.jar
 * funky-locomotion-1.7.10-beta-7.jar
 * GardenStuff-1.7.10-1.6.8.jar
 * generators-0.9.18.115-mc1.7.10.jar
@@ -73,7 +72,7 @@
 * malisisdoors-1.7.10-1.12.2.jar
 * Mantle-1.7.10-0.3.2b.jar
 * Mariculture-Deluxe-1.7.10-1.2.4.2a.jar
-* mcjtylib-1.7.1.jar
+* mcjtylib-1.8.0.jar
 * Metallurgy-1.7.10-4.0.8.97.jar
 * MetallurgyChisel-1.7.10-1.0.0.11.jar
 * MetallurgyCore-1.7.10-4.0.4.18.jar
@@ -81,6 +80,7 @@
 * MmmMmmMmmMmm-1.7.10-1.9.jar
 * mobiuscore-1.7.10-1.2.5.jar
 * ModTweaker2-0.9.4.jar
+* MrTJPCore-1.7.10-1.1.0.31-universal.jar
 * natura-1.7.10-2.2.0.1.jar
 * neiaddons-1.12.14.40-mc1.7.10.jar
 * NEIIntegration-MC1.7.10-1.0.13.jar
@@ -95,7 +95,6 @@
 * OpenPeripheralCore-1.7.10-1.2.jar
 * OpenPeripheralIntegration-1.7.10-0.3.jar
 * opis-1.7.10-1.2.5.jar
-* OptiFine_1.7.10_HD_U_C1.jar
 * plantmegapack-4.29-1.7.10-1492.jar
 * PneumaticCraft-1.7.10-1.12.1-144-universal.jar
 * pressure-1.2.4.124-mc1.7.10.jar
@@ -112,7 +111,7 @@
 * RefinedRelocation-mc1.7.10-1.1.12.jar
 * ResourceLoader-1.2.jar
 * Restructured-1.7.10-1.0.2.0.jar
-* rftools-4.11.jar
+* rftools-4.12.jar
 * RotaryCraft 1.7.10 V9b.jar
 * RouterReborn-1.7.10-1.2.0.35-universal.jar
 * ScottsTweaks-1.7.10-1.3.1.jar
@@ -123,7 +122,6 @@
 * tardismod-1.7.10-0.99-246.jar
 * TConstruct-1.7.10-1.8.8.jar
 * TechReborn-0.7.0.1046-universal.jar
-* TextureGeneratorLib-1.7.10_vBeta1.jar
 * TiCTooltips-mc1.7.10-1.2.5.jar
 * TinkersTailor-alpha-0.3.0.jar
 * twilightforest-1.7.10-2.3.7.jar
@@ -131,6 +129,6 @@
 * Waila-1.5.10_1.7.10.jar
 * WAILAPlugins-MC1.7.10-0.2.0-23.jar
 * Wawla-1.3.2-1.7.10.jar
-* WTFCaveBiomes-1.7.10_v1.53.jar
-* WTFCore-1.7.10_v1.66.jar
+* WTFCaveBiomes-1.7.10_v1.52.jar
+* WTFCore-1.7.10_v1.65.jar
 * Ztones-1.7.10-2.2.1.jar
