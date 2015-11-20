@@ -1,5 +1,122 @@
 # Changelog
 
+## Version 0.9
+
+**Config Changes**
+- MagicalCrops: remove many recipes and made mutation recipes
+- TechReborn recipes
+- TechReborn Assembling Machine recipes
+- Recipe conflict Wooden Gear and Lattice
+- Iron Chests new recipe via TC Casting
+- VeinMiner config deleted because keyboard shortcuts
+- Agricraft: Added Garden soil of Gardencore and ZTones
+- Buildcraft: BC Wire via Immersive Engineering Cable (CrossMod possibility)
+- NEI: Removed filled OpenBlocks Tanks
+- NEI: Removed CaveBiomes Items and Blocks
+- NEI: Removed Extra Tic Chunks
+- NetherOres: ProjectRED Electrotine compatibility
+- TConstruct: Added many new fuels
+- TinkersTailer: Added almost all Metallurgy armor castings
+
+**Forge update**
+- forge-1.7.10-10.13.4.1558-1.7.10-universal.zip
+
+**Mod deletion**
+- primitivemobs-1.0c-1.7.10.jar
+
+**Mod additions**
+- ContentTweaker-1.0.5.jar
+- craftingtweaks-mc1.7.10-1.0.49.jar
+- CuttingEdge-1.7.10-0.1.0-5.jar
+- IronBackpacks-1.7.10-1.2.1.jar
+- KoreSample-1.7.10-1.3.2.jar
+- RebornCore-1.0.0.8-universal.jar
+- ScottsTweaks-1.7.10-1.3.1.jar
+- SpecialAI-1.7.10-1.1.1.jar
+- TextureGeneratorLib-1.7.10_vBeta1.jar
+- TinkersTailor-alpha-0.3.0.jar
+
+**Mod updates / additions**
+- AgriCraft-1.7.10-1.4.5.jar
+- BuildcraftAdditions-1.7.10-2.2.3.jar
+- EnderCore-1.7.10-0.2.0.31_beta.jar
+- Fluxed-Core-1.0.4.jar
+- forgeessentials-1.7.10-1.4.3.1021-client.jar
+- IC2NuclearControl-2.3.2a-Butt.jar
+- ImmersiveEngineering-0.6.2.jar
+- immersiveintegration-0.6.1.jar
+- industrialcraft-2-2.2.795-experimental.jar
+- logisticspipes-0.9.3.69.jar
+- malisiscore-1.7.10-0.13.1.jar
+- malisisdoors-1.7.10-1.12.2.jar
+- mcjtylib-1.7.1.jar
+- MmmMmmMmmMmm-1.7.10-1.9.jar
+- PneumaticCraft-1.7.10-1.12.1-144-universal.jar
+- rftools-4.11.jar
+- SpiceOfLife-mc1.7.10-1.3.0.jar
+- TechReborn-0.7.0.1046-universal.jar
+- VeinMiner-1.7.10_0.30.1.bobross.jar
+- WAILAPlugins-MC1.7.10-0.2.0-23.jar
+- WTFCaveBiomes-1.7.10_v1.53.jar
+- WTFCore-1.7.10_v1.66.jar
+
+## Version 0.8
+
+**Config Changes**
+- Updated complete new Ore Generation
+- Disabled most mod update checker
+- Added new menu
+
+**Mod deletion**
+- LoadingProfiler-MC1.7.10-1.2.jar
+- HelpFixer-1.0.7.jar
+- RecurrentComplex-0.9.6.3.jar
+
+**Mod updates / additions**
+- BiblioCraft[v1.11.4][MC1.7.10].jar
+- catwalks-2.0.3.jar
+- extrautilities-1.2.12.jar
+- forgeessentials-1.7.10-1.4.3.1016-client.jar
+- funky-locomotion-1.7.10-beta-7.jar
+- ImmersiveEngineering-0.6.0.jar
+- immersiveintegration-0.6.0.jar
+- RefinedRelocation-mc1.7.10-1.1.12.jar
+- Restructured-1.7.10-1.0.2.0.jar
+- rftools-4.01.jar
+- TechReborn-0.5.6.963-universal.jar
+- Wawla-1.3.2-1.7.10.jar
+- WTFCaveBiomes-1.7.10_v1.52.jar
+
+## Version 0.7
+
+**Config Changes**
+
+**Mod updates / additions**
+- AgriCraft-1.7.10-1.4.3.jar
+- AOBDBB-1.0.6.jar
+- AsieLib-1.7.10-0.4.4.jar
+- BiblioCraft[v1.11.3][MC1.7.10].jar
+- BrandonsCore-1.0.0.8.jar
+- buildcraft-7.1.12.jar
+- Computronics-1.7.10-1.5.9.jar
+- CustomMainMenu-MC1.7.10-1.9.1.jar
+- Draconic-Evolution-1.7.10-1.0.2-Snapshot_5-Bugfix.jar
+- DynamicLights-1.7.10.jar
+- EnderCore-1.7.10-0.2.0.30_beta.jar
+- industrialcraft-2-2.2.790-experimental.jar
+- malisiscore-1.7.10-0.12.10.jar
+- malisisdoors-1.7.10-1.10.1.jar
+- Mantle-1.7.10-0.3.2b.jar
+- mcjtylib-1.7.0.jar
+- PneumaticCraft-1.7.10-1.11.18-140-universal.jar
+- Railcraft_1.7.10-9.8.0.0.jar
+- rftools-4.00.jar
+- RouterReborn-1.7.10-1.2.0.35-universal.jar
+- TConstruct-1.7.10-1.8.8.jar
+- TechReborn-0.5.5.941-universal.jar
+- WTFCaveBiomes-1.7.10_v1.51.jar
+- WTFCore-1.7.10_v1.65.jar
+
 ## Version 0.6
 
 **Config Changes**
@@ -13,6 +130,7 @@
 - TheErebus-0.3a.jar
 
 **Mod updates / additions**
+- forge-1.7.10-10.13.4.1492-1.7.10-universal.jar
 
 ## Version 0.5
 
