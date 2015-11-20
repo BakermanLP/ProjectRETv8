@@ -1,5 +1,6 @@
 import mods.techreborn.assemblingMachine;
 import mods.techreborn.fusionReactor;
+import mods.techreborn.blastFurnace;
 import minetweaker.item.IItemStack;
 
 ########################################################################################################################
@@ -14,19 +15,24 @@ val heliumCell = <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluidhelium", 
 val helium3Cell = <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluidhelium3", Amount: 1000}});
 val deuteriumCell = <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluiddeuterium", Amount: 1000}});
 val tritiumCell = <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluidtritium", Amount: 1000}});
+val heliumPlasmaCell = <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "fluidheliumplasma", Amount: 1000}});
 
+val plateAluminium = <techreborn:plates>;
 val plateElectrum = <techreborn:plates:9>;
+val plateIridium = <techreborn:plates:13>;
 val platePlatinum = <techreborn:plates:22>;
 val plateSilicon = <techreborn:plates:27>;
 val plateSteel = <techreborn:plates:29>;
-val plateAluminium = <techreborn:plates>;
+val plateTungsten = <techreborn:plates:33>;
 
 val ic2Circuit = <IC2:itemPartCircuit>;
 val ic2AdvCircuit = <IC2:itemPartCircuitAdv>;
 val ic2ItemCable = <IC2:itemCable>;
 val ic2Wrench = <IC2:itemToolWrench>;
-val ic2LapotronCrystal = <IC2:itemBatLamaCrystal:*>.withTag({*});
-# val trMachineParts = <techreborn:part:36>;
+
+val ic2LapCrystal = <IC2:itemBatLamaCrystal:*>;
+
+val ae2Silicon = <appliedenergistics2:item.ItemMultiMaterial:5>;
 
 val trAdvancedCircuitParts = <techreborn:part:0>;
 val trBasicCircuitBoard = <techreborn:part:1>;
@@ -74,6 +80,12 @@ recipes.addShaped( trComputerMonitor, [
     [plateAluminium,mcGlowstoneDust,plateAluminium]
 ] );
     
+recipes.remove(trEnergyFlowCircuit);
+recipes.addShaped( trEnergyFlowCircuit, [
+    [ic2AdvCircuit, plateTungsten, ic2AdvCircuit],
+    [ic2LapCrystal,plateIridium,ic2LapCrystal],
+    [ic2AdvCircuit,plateTungsten,ic2AdvCircuit]
+] );
 
 ########################################################################################################################
 # Assembling Machine
@@ -98,9 +110,9 @@ mods.techreborn.assemblingMachine.addRecipe(ic2AdvCircuit,trAdvancedCircuitBoard
 
 mods.techreborn.assemblingMachine.addRecipe(trProcessorCircuitBoard * 1,ic2AdvCircuit * 1,platePlatinum * 2,3200,4);
 
-mods.techreborn.assemblingMachine.addRecipe(trEnergyFlowCircuit * 1, trProcessorCircuitBoard * 1, ic2LapotronCrystal * 1, 3200, 4);
-
 mods.techreborn.assemblingMachine.addRecipe(trDataOrb * 1, trDataStorageCircuit * 8, trDataControlCircuit * 1, 12800, 16);
+
+mods.techreborn.assemblingMachine.addRecipe(trEnergyFlowCircuit * 1, ic2LapCrystal * 1, trProcessorCircuitBoard * 1, 12800, 16);
 
 ########################################################################################################################
 # Fusion Reactor Setup correct
@@ -113,10 +125,16 @@ mods.techreborn.fusionReactor.addRecipe( deuteriumCell, tritiumCell, heliumCell 
 
 mods.techreborn.fusionReactor.addRecipe( deuteriumCell, deuteriumCell, tritiumCell ,40000000,10000,1200);
 
-mods.techreborn.fusionReactor.addRecipe( helium3Cell , deuteriumCell, heliumCell ,60000000,60000,1500);
+mods.techreborn.fusionReactor.addRecipe( helium3Cell , deuteriumCell, heliumCell ,60000000,50000,2000);
 
-mods.techreborn.fusionReactor.addRecipe( tritiumCell , tritiumCell, heliumCell ,40000000,30000,1200);
+mods.techreborn.fusionReactor.addRecipe( tritiumCell , tritiumCell, heliumPlasmaCell ,50000000,4000,12000);
 
-mods.techreborn.fusionReactor.addRecipe( helium3Cell , helium3Cell, heliumCell ,40000000,35000,1200);
+mods.techreborn.fusionReactor.addRecipe( helium3Cell , helium3Cell, heliumPlasmaCell ,44000000,3500,12000);
+
+########################################################################################################################
+# Blast Furnace
+########################################################################################################################
+
+mods.techreborn.blastFurnace.addRecipe( plateSilicon, null, ae2Silicon *2, null, 1000, 120, 1500);
 
 # vim:et:sw=4:sts=4:ts=4
