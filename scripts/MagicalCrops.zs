@@ -174,4 +174,15 @@ SeedMutation.add(SapphireSeeds, LapisSeeds, DiamondSeeds);
 // Fluix Seeds
 SeedMutation.add(FluixSeeds, QuartzSeeds, CertusQuartzSeeds);
 
+# Bigfixing Sheep Essence
 
+val mcSheepEssence = <magicalcrops:SheepEssence>;
+val wool = <minecraft:wool>;
+
+recipes.addShaped( wool * 8, [
+    [mcSheepEssence, mcSheepEssence, mcSheepEssence],
+    [mcSheepEssence,null,mcSheepEssence],
+    [mcSheepEssence,mcSheepEssence,mcSheepEssence]
+] );
+
+# vim:et:sw=4:sts=4:ts=4
