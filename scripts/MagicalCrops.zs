@@ -150,7 +150,7 @@ SeedMutation.add(CobaltSeeds, EmeraldSeeds, CopperSeeds);
 SeedMutation.add(ArditeSeeds, EmeraldSeeds, DiamondSeeds);
 
 //Platinum Seeds
-SeedMutation.add(ArditeSeeds, EmeraldSeeds, GoldSeeds);
+SeedMutation.add(PlatinumSeeds, EmeraldSeeds, GoldSeeds);
 
 // Draconium Seeds
 SeedMutation.add(DraconiumSeeds, ArditeSeeds, CobaltSeeds);
