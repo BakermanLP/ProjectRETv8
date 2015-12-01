@@ -1,5 +1,39 @@
 # Changelog
 
+## Version 1.0
+
+**Config Changes**
+- Workaround Magical Crops Sheep Essence to Wool
+- Coke Cole burnable in Railcraft Blast Furnace
+- Removed some Magical Crops recipes, because of Seed Mutations
+- Fixes Platinum Seeds
+
+**Mod additions**
+- ChestTransporter-2.0.3-MC1.7.10.jar
+- TextureGeneratorLib-1.7.10_vBeta2.jar
+
+**Mod updates / additions**
+- AsieLib-1.7.10-0.4.5.jar
+- BrandonsCore-1.0.0.10-bugfix.jar
+- buildcraft-7.1.13.jar
+- Computronics-1.7.10-1.6.0.jar
+- Draconic-Evolution-1.7.10-1.0.2-Snapshot_7-bugfix.jar
+- ExtraCells-1.7.10-2.3.2b158.jar
+- IC2NuclearControl-2.3.3a-Exist.jar
+- IronBackpacks-r1.7.10-26.jar
+- malisiscore-1.7.10-0.14.0.jar
+- malisisdoors-1.7.10-1.13.0.jar
+- Morpheus-1.7.10-1.6.18.jar
+- OpenComputers-MC1.7.10-1.5.20.38-universal.jar
+- RebornCore-1.1.0.15-universal.jar
+- rftools-4.13.jar
+- StorageDrawers-1.7.10-1.7.2.jar
+- TechReborn-0.7.1.1056-universal.jar
+- VeinMiner-1.7.10_0.30.2.unknown.jar
+- Wawla-1.3.3-1.7.10.jar
+- WTFCaveBiomes-1.7.10_v1.53.jar
+- WTFCore-1.7.10_v1.66.jar
+
 ## Version 0.9
 
 **Config Changes**
