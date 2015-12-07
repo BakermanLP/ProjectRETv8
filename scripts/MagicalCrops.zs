@@ -187,4 +187,16 @@ recipes.addShaped( wool * 8, [
     [mcSheepEssence,mcSheepEssence,mcSheepEssence]
 ] );
 
+# Additional Rubber Essence
+
+val mcRubberEssence = <magicalcrops:RubberEssence>;
+val ic2Rubber = <IC2:itemRubber>;
+
+recipes.addShaped( ic2Rubber * 8, [
+    [mcRubberEssence, mcRubberEssence, mcRubberEssence],
+    [mcRubberEssence,null,mcRubberEssence],
+    [mcRubberEssence,mcRubberEssence,mcRubberEssence]
+] );
+
+
 # vim:et:sw=4:sts=4:ts=4
