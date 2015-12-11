@@ -198,5 +198,4 @@ recipes.addShaped( ic2Rubber * 8, [
     [mcRubberEssence,mcRubberEssence,mcRubberEssence]
 ] );
 
-
 # vim:et:sw=4:sts=4:ts=4
