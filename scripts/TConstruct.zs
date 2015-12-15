@@ -20,6 +20,9 @@ val silverChest = <IronChest:BlockIronChest:4>;
 val crystalChest = <IronChest:BlockIronChest:5>;
 val obsidianChest = <IronChest:BlockIronChest:6>;
 
+val tConstructIngotCast     = <TConstruct:metalPattern>;
+val tConstructNuggetCast    = <TConstruct:metalPattern:27>;
+
 ###
 # Liquids
 ###
@@ -30,6 +33,30 @@ val lqGold   = <liquid:gold.molten>;
 val lqSilver = <liquid:silver.molten>;
 val lqObsidian = <liquid:obsidian.molten>;
 val lqGlass  = <liquid:glass.molten>;
+val lqLead   = <liquid:lead.molten>;
+val lqNickel = <liquid:nickel.molten>;
+
+###
+# Melting Recipes
+###
+
+mods.tconstruct.Smeltery.addMelting( <ore:oreLead> * 1 , lqLead * 288, 500, <IC2:blockMetal:4> );
+mods.tconstruct.Smeltery.addMelting( <ore:oreNickel> * 1 , lqNickel * 288, 500, <techreborn:techreborn.storage:11> );
+mods.tconstruct.Smeltery.addMelting( <ore:ingotLead> * 1 , lqLead * 144, 500, <IC2:blockMetal:4> );
+mods.tconstruct.Smeltery.addMelting( <ore:ingotNickel> * 1 , lqNickel * 144, 500, <techreborn:techreborn.storage:11> );
+mods.tconstruct.Smeltery.addMelting( <ore:nuggetLead> * 1 , lqLead * 16, 500, <IC2:blockMetal:4> );
+mods.tconstruct.Smeltery.addMelting( <ore:nuggetNickel> * 1 , lqNickel * 16, 500, <techreborn:techreborn.storage:11> );
+mods.tconstruct.Smeltery.addMelting( <ore:blockLead> * 1 , lqLead * 1296, 500, <IC2:blockMetal:4> );
+mods.tconstruct.Smeltery.addMelting( <ore:blockNickel> * 1 , lqNickel * 1296, 500, <techreborn:techreborn.storage:11> );
+
+###
+# Table Cast
+###
+
+mods.tconstruct.Casting.addTableRecipe( <techreborn:ingot:16>, lqLead * 144, tConstructIngotCast, false, 20 );
+mods.tconstruct.Casting.addTableRecipe( <techreborn:nuggets:10>, lqLead * 16, tConstructNuggetCast, false, 20 );
+mods.tconstruct.Casting.addTableRecipe( <techreborn:ingot:20>, lqNickel * 144, tConstructIngotCast, false, 20 );
+mods.tconstruct.Casting.addTableRecipe( <techreborn:nuggets:11>, lqNickel * 16, tConstructNuggetCast, false, 20 );
 
 ###
 # Casting Basin
@@ -41,6 +68,9 @@ mods.tconstruct.Casting.addBasinRecipe( silverChest, lqSilver * 1152, mcChest, t
 mods.tconstruct.Casting.addBasinRecipe( goldChest, lqGold * 1152, mcChest, true, 75 );
 mods.tconstruct.Casting.addBasinRecipe( obsidianChest, lqObsidian * 1152, diamondChest, true, 75 );
 mods.tconstruct.Casting.addBasinRecipe( crystalChest, lqGlass * 4000, diamondChest, true, 75 );
+
+mods.tconstruct.Casting.addBasinRecipe( <techreborn:techreborn.storage:6>, lqLead * 1296, null, true, 75 );
+mods.tconstruct.Casting.addBasinRecipe( <techreborn:techreborn.storage:11>, lqNickel * 1296, null, true, 75 );
 
 ###
 # Smeltery - Fuels
