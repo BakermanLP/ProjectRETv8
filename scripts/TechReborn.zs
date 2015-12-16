@@ -1,6 +1,7 @@
 import mods.techreborn.assemblingMachine;
 import mods.techreborn.fusionReactor;
 import mods.techreborn.blastFurnace;
+import mods.techreborn.industrialSawmill;
 import minetweaker.item.IItemStack;
 
 ########################################################################################################################
@@ -22,7 +23,8 @@ val plateElectrum = <techreborn:plates:9>;
 val plateIridium = <techreborn:plates:13>;
 val platePlatinum = <techreborn:plates:22>;
 val plateSilicon = <techreborn:plates:27>;
-val plateSteel = <techreborn:plates:29>;
+val plateSteel = <IC2:itemPlates:5>;
+val orePlateSteel = <ore:plateSteel>;
 val plateTungsten = <techreborn:plates:33>;
 
 val ic2Circuit = <IC2:itemPartCircuit>;
@@ -70,8 +72,8 @@ recipes.remove(trDataStorageCircuit);
 
 recipes.addShaped( <techreborn:assemblymachine>, [
     [ic2Circuit, mcPiston, ic2Circuit],
-    [plateSteel,ic2Wrench,plateSteel],
-    [ic2Circuit,plateSteel,ic2Circuit]
+    [orePlateSteel,ic2Wrench,orePlateSteel],
+    [ic2Circuit,orePlateSteel,ic2Circuit]
 ] );
     
 recipes.addShaped( trComputerMonitor, [
@@ -136,5 +138,25 @@ mods.techreborn.fusionReactor.addRecipe( helium3Cell , helium3Cell, heliumPlasma
 ########################################################################################################################
 
 mods.techreborn.blastFurnace.addRecipe( plateSilicon, null, ae2Silicon *2, null, 1000, 120, 1500);
+
+########################################################################################################################
+# SawMill
+########################################################################################################################
+
+val emptyCell = <IC2:itemFluidCell>;
+val SawDust = <RotaryCraft:rotarycraft_item_powders:3>;
+
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, <minecraft:glass_bottle>, <minecraft:log> * 2, <ImmersiveEngineering:fluidContainers>, null, 200, 30,true);
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, <minecraft:glass_bottle>, <minecraft:log> * 2, <Railcraft:fluid.creosote.bottle>, null, 200, 30,true);
+
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, <minecraft:bucket>, <minecraft:log> * 2, <Railcraft:fluid.creosote.bucket>, null, 200, 30,true);
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, <minecraft:bucket>, <minecraft:log> * 2, <ImmersiveEngineering:fluidContainers:1>, null, 200, 30,true);
+
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, emptyCell, <minecraft:log> * 2, <Railcraft:fluid.creosote.cell>, null, 200, 30,true);
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, emptyCell, <minecraft:log> * 2, <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "creosote", Amount: 1000}}), null, 200, 30,true);
+
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:treatedWood> * 8, SawDust, null, <minecraft:log> * 2, null, <liquid:creosote> * 1000, 200, 30,true);
+mods.techreborn.industrialSawmill.addRecipe( <ImmersiveEngineering:material> * 6, null, null, <ImmersiveEngineering:treatedWood> * 2, null, null, 200, 30);
+mods.techreborn.industrialSawmill.addRecipe( <minecraft:stick> * 6, null, null, <minecraft:planks> * 2, null, null, 200, 30, true);
 
 # vim:et:sw=4:sts=4:ts=4
