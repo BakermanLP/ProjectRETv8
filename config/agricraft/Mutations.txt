@@ -51,3 +51,4 @@ plantmegapack:seedBellPepperOrange=plantmegapack:seedBellPepperYellow+plantmegap
 plantmegapack:seedBellPepperRed=plantmegapack:seedBellPepperOrange+plantmegapack:seedTomato
 plantmegapack:seedSorrel=plantmegapack:seedBroccoli+plantmegapack:seedCassava
 plantmegapack:seedCucumber=plantmegapack:seedBeet+plantmegapack:seedBellPepperYellow
+plantmegapack:seedEggplant=plantmegapack:seedBeet+plantmegapack:seedCucumber
