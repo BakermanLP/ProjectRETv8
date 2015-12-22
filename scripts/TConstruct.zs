@@ -140,4 +140,26 @@ for i, fuel in tConstructSmelteryFuels
   bucket.addTooltip( format.gray( "Smeltery Temperature: ") + format.red( temperatureString ) + format.red( "°" ) );
 }
 
+###
+# Buffing some Metallurgy Materials
+###
+mods.tconstruct.ToolStats.setArrowMass("Adamantine", 2.0);
+mods.tconstruct.ToolStats.setArrowMass("Atlarus", 2.0);
+mods.tconstruct.ToolStats.setArrowMass("Kalendrite", 2.5);
+mods.tconstruct.ToolStats.setArrowMass("Sanguinite", 2.5);
+mods.tconstruct.ToolStats.setArrowMass("Tartarite", 2.5);
+mods.tconstruct.ToolStats.setArrowMass("Vulcanite", 2.5);
+mods.tconstruct.ToolStats.setArrowMass("Vyroxeres", 2.5);
+
+mods.tconstruct.ToolStats.setArrowMass("Mithril", 2.0);
+mods.tconstruct.ToolStats.setDamage("Mithril", 5.0);
+mods.tconstruct.ToolStats.setDurability("Mithril", 1200);
+
+mods.tconstruct.ToolStats.setArrowMass("Haderoth", 2.5);
+mods.tconstruct.ToolStats.setDamage("Haderoth", 6.0);
+mods.tconstruct.ToolStats.setDurability("Haderoth", 1200);
+
+mods.tconstruct.ToolStats.setArrowMass("Inolashite", 2.5);
+mods.tconstruct.ToolStats.setDamage("Inolashite", 4.0);
+
 # vim:et:sw=4:sts=4:ts=4
