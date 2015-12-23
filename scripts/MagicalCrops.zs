@@ -96,6 +96,7 @@ recipes.remove(PeridotSeeds);
 recipes.remove(RubySeeds);       
 recipes.remove(SapphireSeeds);       
 recipes.remove(FluixSeeds);       
+recipes.remove(RubberSeeds);       
 
 #Mutations
 //Coal Seeds
@@ -176,7 +177,10 @@ SeedMutation.add(SapphireSeeds, LapisSeeds, DiamondSeeds);
 // Fluix Seeds
 SeedMutation.add(FluixSeeds, QuartzSeeds, CertusQuartzSeeds);
 
-# Bigfixing Sheep Essence
+// Rubber Seeds
+SeedMutation.add(RubberSeeds, SlimeSeeds, PigSeeds);
+
+# Bugfixing Sheep Essence
 
 val mcSheepEssence = <magicalcrops:SheepEssence>;
 val wool = <minecraft:wool>;
@@ -196,6 +200,40 @@ recipes.addShaped( ic2Rubber * 8, [
     [mcRubberEssence, mcRubberEssence, mcRubberEssence],
     [mcRubberEssence,null,mcRubberEssence],
     [mcRubberEssence,mcRubberEssence,mcRubberEssence]
+] );
+
+# Brown Dye
+
+val whiteColor = <Mariculture:materials:27>;
+val blueColor = <Mariculture:materials:28>;
+val brownColor = <Mariculture:materials:32>;
+val cyanColor = <minecraft:dye:6>;
+val techniColor = <magicalcrops:DyeEssence>;
+
+recipes.removeShaped(cyanColor);
+
+recipes.addShaped( cyanColor * 6, [
+    [null,techniColor,null],
+    [techniColor,techniColor,null],
+    [null,null,null]
+] );
+
+recipes.addShaped( whiteColor * 6, [
+    [null,techniColor,null],
+    [null,techniColor,techniColor],
+    [null,null,null]
+] );
+
+recipes.addShaped( blueColor * 6, [
+    [null,null,null],
+    [null,techniColor,techniColor],
+    [null,techniColor,null]
+] );
+
+recipes.addShaped( brownColor * 6, [
+    [null,null,null],
+    [techniColor,techniColor,null],
+    [null,techniColor,null]
 ] );
 
 # vim:et:sw=4:sts=4:ts=4
