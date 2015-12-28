@@ -1,5 +1,72 @@
 # Changelog
 
+## Version 1.1
+
+**Config Changes**
+- New recipe for Router Reborn Wrench
+- Additional Rubber recipe
+- Enabled Railcraft Chunkloader
+- Little Changes Magical Crops
+- Changed max Upgrades to 1024 for Progressive Autmation
+- Buildcraft Builder drops blocks
+- Preparation for Advanced Rocketry
+- Nickel and Lead in Smeltery now meltable
+- Industrial Sawmill additional recipes
+- ZTones compatible to Chisel
+- Hide Facades in NEI
+- Mutation for eggplant from plant mega pack
+- Stuffed Pepper new recipe
+- Stir Fry new recipe
+- Metallurgy arrow heads to heavy
+- Magical crops technicolor colors
+- Magical crops rubber seed
+- Carbon Values for syngas production
+- Only Keypress for craftingtweaks
+
+**Mod additions**
+- TIS-3D-MC1.7.10-0.6.3.47.jar
+
+**Mod updates**
+- ae2stuff-0.5.1.60-mc1.7.10.jar
+- AgriCraft-1.7.10-1.4.6-hotfix.jar
+- bdlib-1.9.4.109-mc1.7.10.jar
+- buildcraft-7.1.14.jar
+- buildcraft-compat-7.1.3.jar
+- BuildcraftAdditions-1.7.10-2.2.4.jar
+- Chisel-2.9.4.10.jar
+- CoFHCore-[1.7.10]3.1.0B1-321.jar
+- compacter-1.2.1.15-mc1.7.10.jar
+- craftingtweaks-mc1.7.10-1.0.58.jar
+- darkcore-0.3-86.jar
+- Draconic-Evolution-1.7.10-1.0.2-Snapshot_9.jar
+- DragonAPI 1.7.10 V10c.jar
+- ElectriCraft 1.7.10 V10b.jar
+- ExtraCells-1.7.10-2.3.6b172.jar
+- forgeessentials-1.7.10-1.4.3.1046-client.jar
+- GardenStuff-1.7.10-1.7.0.jar
+- generators-0.9.19.120-mc1.7.10.jar
+- ImmersiveEngineering-0.6.4.jar
+- immersiveintegration-0.6.6.jar
+- industrialcraft-2-2.2.810-experimental.jar
+- IronBackpacks-1.7.10-1.2.11.jar
+- logisticspipes-0.9.3.70.jar
+- mcjtylib-1.8.1.jar
+- ModTweaker2-0.9.5.jar
+- Morpheus-1.7.10-1.6.20.jar
+- neiaddons-1.12.15.41-mc1.7.10.jar
+- NEIIntegration-MC1.7.10-1.1.1.jar
+- NotEnoughResources-1.7.10-0.1.0-121.jar
+- plantmegapack-4.30-1.7.10-1492.jar
+- PneumaticCraft-1.7.10-1.12.3-146-universal.jar
+- pressure-1.2.5.125-mc1.7.10.jar
+- ProgressiveAutomation-1.7.10-1.6.29.jar
+- ReactorCraft 1.7.10 V10b.jar
+- rftools-4.20.jar
+- RotaryCraft 1.7.10 V10b.jar
+- StorageDrawers-1.7.10-1.7.5.jar
+- tardismod-1.7.10-0.99-262.jar
+- TechReborn-0.7.4.1074-universal.jar
+
 ## Version 1.0
 
 **Config Changes**
