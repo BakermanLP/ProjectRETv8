@@ -1,5 +1,39 @@
 # Changelog
 
+## Version 1.2
+
+**Config Changes**
+- Restructured online version check off
+- Made chipsets IC2 and BuildCraft compatible
+
+**Mod updates / additions**
+- ae2stuff-rv3-0.5.1.9-mc1.7.10.jar
+- AOBD-2.9.0.jar
+- appliedenergistics2-rv3-beta-4.jar
+- BuildcraftAdditions-1.7.10-2.2.5.jar
+- CoFHCore-[1.7.10]3.1.0B1-322.jar
+- craftingtweaks-mc1.7.10-1.0.62.jar
+- CraftTweaker-Customized-1.7.10-3.0.0.jar
+- DragonAPI 1.7.10 V10d.jar
+- ExtraCells-1.7.10-2.3.7b176.jar
+- HardcoreEnderExpansion  MC-1.7.10  v1.8.5.jar
+- ImmersiveEngineering-0.6.5.1.jar
+- IronBackpacks-1.7.10-1.2.15.jar
+- OpenBlocks-1.7.10-1.5.jar
+- OpenComputers-MC1.7.10-1.5.21.41-universal.jar
+- OpenModsLib-1.7.10-0.9.jar
+- OpenPeripheralAddons-1.7.10-0.5.jar
+- OpenPeripheralCore-1.7.10-1.2.1.jar
+- OpenPeripheralIntegration-1.7.10-0.4.jar
+- ProjectRed-1.7.10-4.7.0pre10.93-Base.jar
+- ProjectRed-1.7.10-4.7.0pre10.93-Compat.jar
+- ProjectRed-1.7.10-4.7.0pre10.93-Fabrication.jar
+- ProjectRed-1.7.10-4.7.0pre10.93-Integration.jar
+- ProjectRed-1.7.10-4.7.0pre10.93-Lighting.jar
+- ReactorCraft 1.7.10 V10d.jar
+- RotaryCraft 1.7.10 V10d.jar
+- TIS-3D-MC1.7.10-0.8.1.59.jar
+
 ## Version 1.1
 
 **Config Changes**

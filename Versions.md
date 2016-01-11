@@ -1,11 +1,11 @@
 ## mods
 * AdvancedSystemsManager-1.7.10-0.2.0.jar
-* ae2stuff-0.5.1.60-mc1.7.10.jar
+* ae2stuff-rv3-0.5.1.9-mc1.7.10.jar
 * AgriCraft-1.7.10-1.4.6-hotfix.jar
-* AOBD-2.8.4.jar
+* AOBD-2.9.0.jar
 * AOBDBB-1.0.6.jar
 * AppleCore-mc1.7.10-1.1.0.jar
-* appliedenergistics2-rv2-stable-10.jar
+* appliedenergistics2-rv3-beta-4.jar
 * AsieLib-1.7.10-0.4.5.jar
 * ATG-1.7.10-0.12.0.jar
 * Baubles-1.7.10-1.0.1.10.jar
@@ -13,7 +13,7 @@
 * BiblioCraft[v1.11.4][MC1.7.10].jar
 * BrandonsCore-1.0.0.10-bugfix.jar
 * buildcraft-7.1.14.jar
-* BuildcraftAdditions-1.7.10-2.2.4.jar
+* BuildcraftAdditions-1.7.10-2.2.5.jar
 * buildcraft-compat-7.1.3.jar
 * Carpenter's Blocks v3.3.7 - MC 1.7.10.jar
 * catwalks-2.0.3.jar
@@ -22,16 +22,17 @@
 * ChunkAnimator-MC1.7.10-1.0.1.jar
 * ChunkPurge-1.7.10-2.1.jar
 * CodeChickenCore-1.7.10-1.0.7.47-universal.jar
-* CoFHCore-[1.7.10]3.1.0B1-321.jar
+* CoFHCore-[1.7.10]3.1.0B1-322.jar
 * compacter-1.2.1.15-mc1.7.10.jar
 * Computronics-1.7.10-1.6.0.jar
-* craftingtweaks-mc1.7.10-1.0.58.jar
+* craftingtweaks-mc1.7.10-1.0.62.jar
+* CraftTweaker-Customized-1.7.10-3.0.0.jar
 * CustomMainMenu-MC1.7.10-1.9.2.jar
 * CuttingEdge-1.7.10-0.1.0-5.jar
 * darkcore-0.3-86.jar
 * denseores-1.6.2.jar
 * Draconic-Evolution-1.7.10-1.0.2-Snapshot_9.jar
-* DragonAPI 1.7.10 V10c.jar
+* DragonAPI 1.7.10 V10d.jar
 * DynamicLights-1.7.10.jar
 * ElectriCraft 1.7.10 V10b.jar
 * Enchiridion 2-1.7.10-2.0.2a.jar
@@ -40,7 +41,7 @@
 * EnderZoo-1.7.10-1.0.15.32.jar
 * Eureka-1.7.10-3.0.2.jar
 * Ewy's Workshop-1.0.3.jar
-* ExtraCells-1.7.10-2.3.6b172.jar
+* ExtraCells-1.7.10-2.3.7b176.jar
 * ExtraTiC-1.7.10-1.4.5.jar
 * extrautilities-1.2.12.jar
 * fastcraft-1.22-ctest17.jar
@@ -51,16 +52,16 @@
 * generators-0.9.19.120-mc1.7.10.jar
 * GraviSuite-1.7.10-2.0.3.jar
 * growthcraft-1.7.10-2.3.1-complete.jar
-* HardcoreEnderExpansion  MC-1.7.10  v1.8.4.jar
+* HardcoreEnderExpansion  MC-1.7.10  v1.8.5.jar
 * ibench-1.7.10-1.0.12.jar
 * IC2NuclearControl-2.3.3a-Exist.jar
 * IguanaTinkerTweaks-1.7.10-2.1.5.148.jar
-* ImmersiveEngineering-0.6.4.jar
+* ImmersiveEngineering-0.6.5.1.jar
 * immersiveintegration-0.6.6.jar
 * industrialcraft-2-2.2.810-experimental.jar
 * inpurecore-1.7.10-1.0.0B9-62.jar
 * InventoryTweaks-1.59-dev-152.jar
-* IronBackpacks-1.7.10-1.2.11.jar
+* IronBackpacks-1.7.10-1.2.15.jar
 * ironchest-1.7.10-6.0.60.741-universal.jar
 * IvToolkit-1.2.jar
 * KoreSample-1.7.10-1.3.2.jar
@@ -74,7 +75,6 @@
 * Metallurgy-1.7.10-4.0.8.97.jar
 * MetallurgyChisel-1.7.10-1.0.0.11.jar
 * MetallurgyCore-1.7.10-4.0.4.18.jar
-* MineTweaker3-1.7.10-3.0.10B.jar
 * MmmMmmMmmMmm-1.7.10-1.9.jar
 * mobiuscore-1.7.10-1.2.5.jar
 * ModTweaker2-0.9.5.jar
@@ -86,31 +86,31 @@
 * NotEnoughItems-1.7.10-1.0.5.118-universal.jar
 * NotEnoughKeys-1.7.10-3.0.0b43-universal.jar
 * NotEnoughResources-1.7.10-0.1.0-121.jar
-* OpenBlocks-1.7.10-1.4.4.jar
-* OpenComputers-MC1.7.10-1.5.20.38-universal.jar
-* OpenModsLib-1.7.10-0.8.jar
-* OpenPeripheralAddons-1.7.10-0.4.jar
-* OpenPeripheralCore-1.7.10-1.2.jar
-* OpenPeripheralIntegration-1.7.10-0.3.jar
+* OpenBlocks-1.7.10-1.5.jar
+* OpenComputers-MC1.7.10-1.5.21.41-universal.jar
+* OpenModsLib-1.7.10-0.9.jar
+* OpenPeripheralAddons-1.7.10-0.5.jar
+* OpenPeripheralCore-1.7.10-1.2.1.jar
+* OpenPeripheralIntegration-1.7.10-0.4.jar
 * opis-1.7.10-1.2.5.jar
 * plantmegapack-4.30-1.7.10-1492.jar
 * PneumaticCraft-1.7.10-1.12.3-146-universal.jar
 * pressure-1.2.5.125-mc1.7.10.jar
 * ProgressiveAutomation-1.7.10-1.6.29.jar
-* ProjectRed-1.7.10-4.7.0pre9.92-Base.jar
-* ProjectRed-1.7.10-4.7.0pre9.92-Compat.jar
-* ProjectRed-1.7.10-4.7.0pre9.92-Fabrication.jar
-* ProjectRed-1.7.10-4.7.0pre9.92-Integration.jar
-* ProjectRed-1.7.10-4.7.0pre9.92-Lighting.jar
+* ProjectRed-1.7.10-4.7.0pre10.93-Base.jar
+* ProjectRed-1.7.10-4.7.0pre10.93-Compat.jar
+* ProjectRed-1.7.10-4.7.0pre10.93-Fabrication.jar
+* ProjectRed-1.7.10-4.7.0pre10.93-Integration.jar
+* ProjectRed-1.7.10-4.7.0pre10.93-Lighting.jar
 * Railcraft_1.7.10-9.8.0.0.jar
 * RandomThings-2.2.4.jar
-* ReactorCraft 1.7.10 V10b.jar
+* ReactorCraft 1.7.10 V10d.jar
 * RebornCore-1.1.0.15-universal.jar
 * RefinedRelocation-mc1.7.10-1.1.12.jar
 * ResourceLoader-1.2.jar
 * Restructured-1.7.10-1.0.2.0.jar
 * rftools-4.20.jar
-* RotaryCraft 1.7.10 V10b.jar
+* RotaryCraft 1.7.10 V10d.jar
 * RouterReborn-1.7.10-1.2.0.35-universal.jar
 * ScottsTweaks-1.7.10-1.3.1.jar
 * SpecialAI-1.7.10-1.1.1.jar
@@ -123,7 +123,7 @@
 * TextureGeneratorLib-1.7.10_vBeta2.jar
 * TiCTooltips-mc1.7.10-1.2.5.jar
 * TinkersTailor-alpha-0.3.0.jar
-* TIS-3D-MC1.7.10-0.6.3.47.jar
+* TIS-3D-MC1.7.10-0.8.1.59.jar
 * twilightforest-1.7.10-2.3.7.jar
 * VeinMiner-1.7.10_0.30.2.unknown.jar
 * Waila-1.5.10_1.7.10.jar
