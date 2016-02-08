@@ -7,8 +7,8 @@ val roCoalCoke= <RotaryCraft:rotarycraft_item_compacts:8>;
 val roCoalCokeBlock = <RotaryCraft:rotarycraft_block_deco:5>;
 
 val rcIronPlate = <Railcraft:part.plate>;
-val rcTinPlate = <Railcraft:part.plate:1>;
-val rcSteelPlate = <Railcraft:part.plate:2>;
+val rcSteelPlate = <Railcraft:part.plate:1>;
+val rcTinPlate = <Railcraft:part.plate:2>;
 
 val ocIronPlate = <ore:plateIron>;
 val ocTinPlate = <ore:plateTin>;
