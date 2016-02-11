@@ -1,5 +1,60 @@
 # Changelog
 
+## Version 1.3
+
+**Config Changes**
+- additional Oredict for Railcraft plates
+- Rotarycraft fix for Graphite
+- Craftable Green Hearts Canister
+- Craftable Necrotic Bones
+- Rotarycraft Difficulty Level lowered
+
+**Mod updates / additions**
+- AOBD-2.9.1.jar
+- AppleCore-mc1.7.10-1.3.0.jar
+- appliedenergistics2-rv3-beta-5.jar
+- CoFHCore-[1.7.10]3.1.1-324.jar
+- CraftTweaker-Customized-1.7.10-3.0.1.jar
+- darkcore-0.3-105.jar
+- Ewy's Workshop-1.1.1.jar
+- ExtraCells-1.7.10-2.3.9b188.jar
+- fastcraft-1.22-ctest18.jar
+- FloodLights-1.7.10-1.1.1-120.jar
+- forgeessentials-1.7.10-1.4.4.1146-client.jar
+- generators-0.9.19.122-mc1.7.10.jar
+- growthcraft-1.7.10-2.4.0-complete.jar
+- IC2NuclearControl-2.3.4a.jar
+- ImmersiveEngineering-0.7.1.2.jar
+- logisticspipes-0.9.3.72.jar
+- malisiscore-1.7.10-0.14.1.jar
+- Morpheus-1.7.10-1.6.21.jar
+- NetherOres-[1.7.10]2.3.1-22.jar
+- NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar
+- OpenBlocks-1.7.10-1.5.1.jar
+- OpenComputers-MC1.7.10-1.5.22.46-universal.jar
+- OpenModsLib-1.7.10-0.9.1.jar
+- OpenPeripheralAddons-1.7.10-0.5.1.jar
+- OpenPeripheralCore-1.7.10-1.3.jar
+- OpenPeripheralIntegration-1.7.10-0.5.jar
+- PneumaticCraft-1.7.10-1.12.6-149-universal.jar
+- pressure-1.3.0.130-mc1.7.10.jar
+- ProgressiveAutomation-1.7.10-1.6.33.jar
+- ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+- ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+- ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar
+- ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+- ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+- RefinedRelocation-mc1.7.10-1.1.21.jar
+- rftools-4.22.jar
+- RouterReborn-1.7.10-1.2.0.37-universal.jar
+- SpecialAI-1.7.10-1.1.2.jar
+- SpiceOfLife-mc1.7.10-1.3.1.jar
+- StorageDrawers-1.7.10-1.7.9.jar
+- tardismod-1.7.10-0.99-275.jar
+- TechReborn-1.7.10-0.7.8.1081-universal.jar
+- TIS-3D-MC1.7.10-0.8.2.62.jar
+- VeinMiner-1.7.10_0.31.1.unknown.jar
+
 ## Version 1.2
 
 **Config Changes**
