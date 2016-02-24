@@ -1,5 +1,38 @@
 # Changelog
 
+## Version 1.4
+
+**Config Changes**
+- Tweaked Energy Values Immersive Engineering
+- Tweaked Cable Length Immersive Integration
+- Tweaked Lapotronic Energy Org Values
+
+**Mod updates / additions**
+- BrandonsCore-1.0.0.11.jar
+- CoFHCore-[1.7.10]3.1.2-325.jar
+- craftingtweaks-mc1.7.10-1.0.73.jar
+- darkcore-0.3-114.jar
+- Draconic-Evolution-1.7.10-1.0.2-Snapshot_10-beta2.jar
+- DragonAPI 1.7.10 V11a.jar
+- ElectriCraft 1.7.10 V11a.jar
+- growthcraft-1.7.10-2.4.1-complete.jar
+- immersiveintegration-0.6.7.jar
+- logisticspipes-0.9.3.83.jar
+- malisiscore-1.7.10-0.14.3.jar
+- malisisdoors-1.7.10-1.13.1.jar
+- MouseTweaks-2.4.4-mc1.7.10.jar
+- NEIIntegration-MC1.7.10-1.1.2.jar
+- plantmegapack-4.31-1.7.10-1492.jar
+- ProgressiveAutomation-1.7.10-1.6.34.jar
+- ReactorCraft 1.7.10 V11a.jar
+- RefinedRelocation-mc1.7.10-1.1.25.jar
+- RotaryCraft 1.7.10 V11a.jar
+- RouterReborn-1.7.10-1.2.0.40-universal.jar
+- StorageDrawers-1.7.10-1.9.2.jar
+- tardismod-1.7.10-0.994-285.jar
+- TechReborn-1.7.10-0.7.12.1089-universal.jar
+- VeinMiner-1.7.10_0.31.3.unknown.jar
+
 ## Version 1.3
 
 **Config Changes**

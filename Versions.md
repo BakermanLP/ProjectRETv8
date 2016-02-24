@@ -11,7 +11,7 @@
 * Baubles-1.7.10-1.0.1.10.jar
 * bdlib-1.9.4.109-mc1.7.10.jar
 * BiblioCraft[v1.11.4][MC1.7.10].jar
-* BrandonsCore-1.0.0.10-bugfix.jar
+* BrandonsCore-1.0.0.11.jar
 * buildcraft-7.1.14.jar
 * BuildcraftAdditions-1.7.10-2.2.5.jar
 * buildcraft-compat-7.1.3.jar
@@ -22,19 +22,19 @@
 * ChunkAnimator-MC1.7.10-1.0.1.jar
 * ChunkPurge-1.7.10-2.1.jar
 * CodeChickenCore-1.7.10-1.0.7.47-universal.jar
-* CoFHCore-[1.7.10]3.1.1-324.jar
+* CoFHCore-[1.7.10]3.1.2-325.jar
 * compacter-1.2.1.15-mc1.7.10.jar
 * Computronics-1.7.10-1.6.0.jar
-* craftingtweaks-mc1.7.10-1.0.62.jar
+* craftingtweaks-mc1.7.10-1.0.73.jar
 * CraftTweaker-Customized-1.7.10-3.0.1.jar
 * CustomMainMenu-MC1.7.10-1.9.2.jar
 * CuttingEdge-1.7.10-0.1.0-5.jar
-* darkcore-0.3-105.jar
+* darkcore-0.3-114.jar
 * denseores-1.6.2.jar
-* Draconic-Evolution-1.7.10-1.0.2-Snapshot_9.jar
-* DragonAPI 1.7.10 V10d.jar
+* Draconic-Evolution-1.7.10-1.0.2-Snapshot_10-beta2.jar
+* DragonAPI 1.7.10 V11a.jar
 * DynamicLights-1.7.10.jar
-* ElectriCraft 1.7.10 V10b.jar
+* ElectriCraft 1.7.10 V11a.jar
 * Enchiridion 2-1.7.10-2.0.2a.jar
 * EnderCore-1.7.10-0.2.0.31_beta.jar
 * EnderStorage-1.7.10-1.4.7.37-universal.jar
@@ -51,13 +51,13 @@
 * GardenStuff-1.7.10-1.7.0.jar
 * generators-0.9.19.122-mc1.7.10.jar
 * GraviSuite-1.7.10-2.0.3.jar
-* growthcraft-1.7.10-2.4.0-complete.jar
+* growthcraft-1.7.10-2.4.1-complete.jar
 * HardcoreEnderExpansion  MC-1.7.10  v1.8.5.jar
 * ibench-1.7.10-1.0.12.jar
 * IC2NuclearControl-2.3.4a.jar
 * IguanaTinkerTweaks-1.7.10-2.1.5.148.jar
 * ImmersiveEngineering-0.7.1.2.jar
-* immersiveintegration-0.6.6.jar
+* immersiveintegration-0.6.7.jar
 * industrialcraft-2-2.2.810-experimental.jar
 * inpurecore-1.7.10-1.0.0B9-62.jar
 * InventoryTweaks-1.59-dev-152.jar
@@ -65,10 +65,10 @@
 * ironchest-1.7.10-6.0.60.741-universal.jar
 * IvToolkit-1.2.jar
 * KoreSample-1.7.10-1.3.2.jar
-* logisticspipes-0.9.3.72.jar
+* logisticspipes-0.9.3.83.jar
 * magicalcrops-4.0.0_PUBLIC_BETA_5.jar
-* malisiscore-1.7.10-0.14.1.jar
-* malisisdoors-1.7.10-1.13.0.jar
+* malisiscore-1.7.10-0.14.3.jar
+* malisisdoors-1.7.10-1.13.1.jar
 * Mantle-1.7.10-0.3.2b.jar
 * Mariculture-Deluxe-1.7.10-1.2.4.2a.jar
 * mcjtylib-1.8.1.jar
@@ -79,9 +79,10 @@
 * mobiuscore-1.7.10-1.2.5.jar
 * ModTweaker2-0.9.5.jar
 * Morpheus-1.7.10-1.6.21.jar
+* MouseTweaks-2.4.4-mc1.7.10.jar
 * natura-1.7.10-2.2.0.1.jar
 * neiaddons-1.12.15.41-mc1.7.10.jar
-* NEIIntegration-MC1.7.10-1.1.1.jar
+* NEIIntegration-MC1.7.10-1.1.2.jar
 * NetherOres-[1.7.10]2.3.1-22.jar
 * NotEnoughItems-1.7.10-1.0.5.118-universal.jar
 * NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar
@@ -94,10 +95,10 @@
 * OpenPeripheralIntegration-1.7.10-0.5.jar
 * opis-1.7.10-1.2.5.jar
 * OptiFine_1.7.10_HD_U_D1.jar
-* plantmegapack-4.30-1.7.10-1492.jar
+* plantmegapack-4.31-1.7.10-1492.jar
 * PneumaticCraft-1.7.10-1.12.6-149-universal.jar
 * pressure-1.3.0.130-mc1.7.10.jar
-* ProgressiveAutomation-1.7.10-1.6.33.jar
+* ProgressiveAutomation-1.7.10-1.6.34.jar
 * ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 * ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
 * ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar
@@ -105,28 +106,28 @@
 * ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 * Railcraft_1.7.10-9.8.0.0.jar
 * RandomThings-2.2.4.jar
-* ReactorCraft 1.7.10 V10d.jar
+* ReactorCraft 1.7.10 V11a.jar
 * RebornCore-1.1.0.15-universal.jar
-* RefinedRelocation-mc1.7.10-1.1.21.jar
+* RefinedRelocation-mc1.7.10-1.1.25.jar
 * ResourceLoader-1.2.jar
 * Restructured-1.7.10-1.0.2.0.jar
 * rftools-4.22.jar
-* RotaryCraft 1.7.10 V10d.jar
-* RouterReborn-1.7.10-1.2.0.37-universal.jar
+* RotaryCraft 1.7.10 V11a.jar
+* RouterReborn-1.7.10-1.2.0.40-universal.jar
 * ScottsTweaks-1.7.10-1.3.1.jar
 * SpecialAI-1.7.10-1.1.2.jar
 * SpiceOfLife-mc1.7.10-1.3.1.jar
-* StorageDrawers-1.7.10-1.7.9.jar
+* StorageDrawers-1.7.10-1.9.2.jar
 * supercraftingframe-1.7.10.3.jar
-* tardismod-1.7.10-0.99-275.jar
+* tardismod-1.7.10-0.994-285.jar
 * TConstruct-1.7.10-1.8.8.jar
-* TechReborn-1.7.10-0.7.8.1081-universal.jar
+* TechReborn-1.7.10-0.7.12.1089-universal.jar
 * TextureGeneratorLib-1.7.10_vBeta2.jar
 * TiCTooltips-mc1.7.10-1.2.5.jar
 * TinkersTailor-alpha-0.3.0.jar
 * TIS-3D-MC1.7.10-0.8.2.62.jar
 * twilightforest-1.7.10-2.3.7.jar
-* VeinMiner-1.7.10_0.31.1.unknown.jar
+* VeinMiner-1.7.10_0.31.3.unknown.jar
 * Waila-1.5.10_1.7.10.jar
 * WAILAPlugins-MC1.7.10-0.2.0-23.jar
 * Wawla-1.3.3-1.7.10.jar
