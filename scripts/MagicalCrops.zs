@@ -236,4 +236,182 @@ recipes.addShaped( brownColor * 6, [
     [null,techniColor,null]
 ] );
 
+## Make metall essences equal
+# iron Essence
+val ironEssence = <magicalcrops:IronEssence>;
+val ironIngot = <minecraft:iron_ingot>;
+val ironOre = <minecraft:iron_ore>;
+
+recipes.removeShaped(ironOre, [
+    [ ironEssence, ironEssence, ironEssence ],
+    [ ironEssence, ironEssence, ironEssence ],
+    [ ironEssence, ironEssence, ironEssence ]
+] );
+
+recipes.addShaped(ironIngot * 8, [
+    [ ironEssence, ironEssence, ironEssence ],
+    [ ironEssence, ironEssence, ironEssence ],
+    [ ironEssence, ironEssence, ironEssence ]
+] );
+
+val goldEssence = <magicalcrops:GoldEssence>;
+val goldIngot = <minecraft:gold_ingot>;
+val goldOre = <minecraft:gold_ore>;
+
+recipes.removeShaped(goldOre, [
+    [ goldEssence, goldEssence, goldEssence ],
+    [ goldEssence, goldEssence, goldEssence ],
+    [ goldEssence, goldEssence, goldEssence ]
+] );
+
+recipes.addShaped(goldIngot * 5, [
+    [ goldEssence, goldEssence, goldEssence ],
+    [ goldEssence, goldEssence, goldEssence ],
+    [ goldEssence, goldEssence, goldEssence ]
+] );
+
+val copperEssence = <magicalcrops:CopperEssence>;
+val copperIngot = <IC2:itemIngot>;
+val copperOre = <IC2:blockOreCopper>;
+
+recipes.removeShaped(copperOre, [
+    [ copperEssence, copperEssence, copperEssence ],
+    [ copperEssence, copperEssence, copperEssence ],
+    [ copperEssence, copperEssence, copperEssence ]
+] );
+
+recipes.addShaped(copperIngot * 4, [
+    [ copperEssence, copperEssence, copperEssence ],
+    [ copperEssence, copperEssence, copperEssence ],
+    [ copperEssence, copperEssence, copperEssence ]
+] );
+
+val tinEssence = <magicalcrops:TinEssence>;
+val tinIngot = <IC2:itemIngot:1>;
+val tinOre = <IC2:blockOreTin>;
+
+recipes.removeShaped(tinOre, [
+    [ tinEssence, tinEssence, tinEssence ],
+    [ tinEssence, tinEssence, tinEssence ],
+    [ tinEssence, tinEssence, tinEssence ]
+] );
+
+recipes.addShaped(tinIngot * 4, [
+    [ tinEssence, tinEssence, tinEssence ],
+    [ tinEssence, tinEssence, tinEssence ],
+    [ tinEssence, tinEssence, tinEssence ]
+] );
+
+val leadEssence = <magicalcrops:LeadEssence>;
+val leadIngot = <IC2:itemIngot:5>;
+val leadOre = <IC2:blockOreLead>;
+
+recipes.removeShaped(leadOre, [
+    [ leadEssence, leadEssence, leadEssence ],
+    [ leadEssence, leadEssence, leadEssence ],
+    [ leadEssence, leadEssence, leadEssence ]
+] );
+
+recipes.addShaped(leadIngot * 4, [
+    [ leadEssence, leadEssence, leadEssence ],
+    [ leadEssence, leadEssence, leadEssence ],
+    [ leadEssence, leadEssence, leadEssence ]
+] );
+
+val aluminiumEssence = <magicalcrops:AluminiumEssence>;
+val aluminiumIngot = <TConstruct:materials:11>;
+val aluminiumOre = <TConstruct:SearedBrick:5>;
+
+recipes.removeShaped(aluminiumOre, [
+    [ aluminiumEssence, aluminiumEssence, aluminiumEssence ],
+    [ aluminiumEssence, aluminiumEssence, aluminiumEssence ],
+    [ aluminiumEssence, aluminiumEssence, aluminiumEssence ]
+] );
+
+recipes.addShaped(aluminiumIngot * 4, [
+    [ aluminiumEssence, aluminiumEssence, aluminiumEssence ],
+    [ aluminiumEssence, aluminiumEssence, aluminiumEssence ],
+    [ aluminiumEssence, aluminiumEssence, aluminiumEssence ]
+] );
+
+val certusEssence = <magicalcrops:CertusQuartzEssence>;
+val certusCrystal = <appliedenergistics2:item.ItemMultiMaterial>;
+val certusOre = <appliedenergistics2:tile.OreQuartz>;
+
+recipes.removeShaped(certusOre, [
+    [ certusEssence, certusEssence, certusEssence ],
+    [ certusEssence, certusEssence, certusEssence ],
+    [ certusEssence, certusEssence, certusEssence ]
+] );
+
+recipes.addShaped(certusCrystal * 8, [
+    [ certusEssence, certusEssence, certusEssence ],
+    [ certusEssence, certusEssence, certusEssence ],
+    [ certusEssence, certusEssence, certusEssence ]
+] );
+
+val silverEssence = <magicalcrops:SilverEssence>;
+val silverIngot = <IC2:itemIngot:6>;
+val silverOre = <ImmersiveEngineering:ore:3>;
+
+recipes.removeShaped(silverOre, [
+    [ silverEssence, silverEssence, silverEssence ],
+    [ silverEssence, silverEssence, silverEssence ],
+    [ silverEssence, silverEssence, silverEssence ]
+] );
+
+recipes.addShaped(silverIngot * 4, [
+    [ silverEssence, silverEssence, silverEssence ],
+    [ silverEssence, silverEssence, silverEssence ],
+    [ silverEssence, silverEssence, silverEssence ]
+] );
+
+val arditeEssence = <magicalcrops:ArditeEssence>;
+val arditeIngot = <TConstruct:materials:4>;
+val arditeOre = <TConstruct:SearedBrick:2>;
+
+recipes.removeShaped(arditeOre, [
+    [ arditeEssence, arditeEssence, arditeEssence ],
+    [ arditeEssence, arditeEssence, arditeEssence ],
+    [ arditeEssence, arditeEssence, arditeEssence ]
+] );
+
+recipes.addShaped(arditeIngot * 4, [
+    [ arditeEssence, arditeEssence, arditeEssence ],
+    [ arditeEssence, arditeEssence, arditeEssence ],
+    [ arditeEssence, arditeEssence, arditeEssence ]
+] );
+
+val cobaltEssence = <magicalcrops:CobaltEssence>;
+val cobaltIngot = <TConstruct:materials:3>;
+val cobaltOre = <TConstruct:SearedBrick:1>;
+
+recipes.removeShaped(cobaltOre, [
+    [ cobaltEssence, cobaltEssence, cobaltEssence ],
+    [ cobaltEssence, cobaltEssence, cobaltEssence ],
+    [ cobaltEssence, cobaltEssence, cobaltEssence ]
+] );
+
+recipes.addShaped(cobaltIngot * 4, [
+    [ cobaltEssence, cobaltEssence, cobaltEssence ],
+    [ cobaltEssence, cobaltEssence, cobaltEssence ],
+    [ cobaltEssence, cobaltEssence, cobaltEssence ]
+] );
+
+val nickelEssence = <magicalcrops:NickelEssence>;
+val nickelIngot = <techreborn:ingot:20>;
+val nickelOre = <ImmersiveEngineering:ore:4>;
+
+recipes.removeShaped(nickelOre, [
+    [ nickelEssence, nickelEssence, nickelEssence ],
+    [ nickelEssence, nickelEssence, nickelEssence ],
+    [ nickelEssence, nickelEssence, nickelEssence ]
+] );
+
+recipes.addShaped(nickelIngot * 4, [
+    [ nickelEssence, nickelEssence, nickelEssence ],
+    [ nickelEssence, nickelEssence, nickelEssence ],
+    [ nickelEssence, nickelEssence, nickelEssence ]
+] );
+
 # vim:et:sw=4:sts=4:ts=4
