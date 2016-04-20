@@ -1,5 +1,51 @@
 # Changelog
 
+## Version 1.5
+
+**Config Changes**
+- Be prepared for new RotaryCraft release
+- Craftable Green Heart Canister and Necrotic Bones
+- minor changes to Immersive Engineering and Integration
+
+**Mod updates / additions**
+- AgriCraft-1.7.10-1.5.0.jar
+- ASP + GS Patcher.jar
+- BetterBuildersWands-0.6.0-1.7.10r78+e289ff4.jar
+- BrandonsCore-1.0.0.12.jar
+- buildcraft-7.1.16.jar
+- Chisel-2.9.5.11.jar
+- craftingtweaks-mc1.7.10-1.0.82.jar
+- CraftTweaker-Customized-1.7.10-3.0.2_retv8.jar
+- Draconic-Evolution-1.7.10-1.0.2b.jar
+- DragonAPI 1.7.10 V12e.jar
+- ElectriCraft 1.7.10 V12c.jar
+- EnderCore-1.7.10-0.2.0.33_beta.jar
+- fastcraft-1.23.jar
+- forgeessentials-1.7.10-1.4.4.1164-client.jar
+- growthcraft-1.7.10-2.5.2-complete.jar
+- IguanaTinkerTweaks-1.7.10-2.1.6.jar
+- ImmersiveEngineering-0.7.5.jar
+- immersiveintegration-0.6.8.jar
+- industrialcraft-2-2.2.821-experimental.jar
+- logisticspipes-0.9.3.114.jar
+- malisisdoors-1.7.10-1.13.2.jar
+- Metallurgy-1.7.10-4.0.8.145.jar
+- MetallurgyCore-1.7.10-4.0.4.29.jar
+- plantmegapack-4.33-1.7.10-1492.jar
+- PneumaticCraft-1.7.10-1.12.7-150-universal.jar
+- pressure-1.3.0.131-mc1.7.10.jar
+- Railcraft_1.7.10-9.10.0.0.jar
+- ReactorCraft 1.7.10 V12d.jar
+- RefinedRelocation-mc1.7.10-1.1.28.jar
+- ResourceLoader-MC1.7.10-1.3.jar
+- rftools-4.23.jar
+- RotaryCraft 1.7.10 V12e.jar
+- RouterReborn-1.7.10-1.2.0.41-universal.jar
+- StorageDrawers-1.7.10-1.9.7.jar
+- TechReborn-1.7.10-0.7.15.1096-universal.jar
+- TIS-3D-MC1.7.10-0.8.4.64.jar
+- VeinMiner-1.7.10_0.31.4.unknown.jar
+
 ## Version 1.4
 
 **Config Changes**
