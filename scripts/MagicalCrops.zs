@@ -1,7 +1,7 @@
 #Imports
 import minetweaker.item.IItemStack;
 import minetweaker.data.IData;
-import mods.agricraft.SeedMutation;
+# import mods.agricraft.SeedMutation;
 import mods.agricraft.growing.Soil;
 import mods.agricraft.growing.FertileSoils;
 import mods.agricraft.growing.BaseBlock;
@@ -98,90 +98,7 @@ recipes.remove(SapphireSeeds);
 recipes.remove(FluixSeeds);       
 recipes.remove(RubberSeeds);       
 
-#Mutations
-//Coal Seeds
-SeedMutation.add(CoalSeeds, MinicioSeeds, seedPotato);
-
-//Certus Quartz Seeds
-SeedMutation.add(CertusQuartzSeeds, CoalSeeds, QuartzSeeds);
-
-//Quartz Seeds
-SeedMutation.add(QuartzSeeds, CoalSeeds, seedCarrot);
-
-//Iron Seeds
-SeedMutation.add(IronSeeds, CoalSeeds, QuartzSeeds);
-
-//Lapis Seeds
-SeedMutation.add(LapisSeeds, CertusQuartzSeeds, IronSeeds);
-
-//Redstone Seeds
-SeedMutation.add(RedstoneSeeds, LapisSeeds, IronSeeds);
-
-//Gold Seeds
-SeedMutation.add(GoldSeeds, RedstoneSeeds, LapisSeeds);
-
-//Diamond Seeds
-SeedMutation.add(DiamondSeeds, GoldSeeds, RedstoneSeeds);
-
-//Emerald Seeds
-SeedMutation.add(EmeraldSeeds, DiamondSeeds, GoldSeeds);
-
-//Tin Seeds
-SeedMutation.add(TinSeeds, IronSeeds, CoalSeeds);
-
-//Copper Seeds
-SeedMutation.add(CopperSeeds, TinSeeds,CoalSeeds);
-
-//Silver Seeds
-SeedMutation.add(SilverSeeds, GoldSeeds, CoalSeeds);
-
-//Lead Seeds
-SeedMutation.add(LeadSeeds, IronSeeds, LapisSeeds);
-
-//Nickel Seeds
-SeedMutation.add(NickelSeeds, GoldSeeds, QuartzSeeds);
-
-//Bronze Seeds
-SeedMutation.add(BronzeSeeds, CopperSeeds, TinSeeds);
-
-//Cobalt Seeds
-SeedMutation.add(CobaltSeeds, EmeraldSeeds, CopperSeeds);
-
-//Ardite Seeds
-SeedMutation.add(ArditeSeeds, EmeraldSeeds, DiamondSeeds);
-
-//Platinum Seeds
-SeedMutation.add(PlatinumSeeds, EmeraldSeeds, GoldSeeds);
-
-// Draconium Seeds
-SeedMutation.add(DraconiumSeeds, ArditeSeeds, CobaltSeeds);
-
-// Manyullyn Seeds
-SeedMutation.add(ManyullynSeeds, ArditeSeeds, CobaltSeeds);
-
-// Electrum Seeds
-SeedMutation.add(ElectrumSeeds, GoldSeeds, SilverSeeds);
-
-// Alumite Seeds
-SeedMutation.add(AlumiteSeeds, AluminiumSeeds, ObsidianSeeds);
-
-// Peridot Seeds
-SeedMutation.add(PeridotSeeds, CopperSeeds, DiamondSeeds);
-
-// Ruby Seeds
-SeedMutation.add(RubySeeds, RedstoneSeeds, DiamondSeeds);
-
-// Sapphire Seeds
-SeedMutation.add(SapphireSeeds, LapisSeeds, DiamondSeeds);
-
-// Fluix Seeds
-SeedMutation.add(FluixSeeds, QuartzSeeds, CertusQuartzSeeds);
-
-// Rubber Seeds
-SeedMutation.add(RubberSeeds, SlimeSeeds, PigSeeds);
-
 # Bugfixing Sheep Essence
-
 val mcSheepEssence = <magicalcrops:SheepEssence>;
 val wool = <minecraft:wool>;
 
@@ -192,7 +109,6 @@ recipes.addShaped( wool * 8, [
 ] );
 
 # Additional Rubber Essence
-
 val mcRubberEssence = <magicalcrops:RubberEssence>;
 val ic2Rubber = <IC2:itemRubber>;
 
@@ -203,7 +119,6 @@ recipes.addShaped( ic2Rubber * 8, [
 ] );
 
 # Brown Dye
-
 val whiteColor = <Mariculture:materials:27>;
 val blueColor = <Mariculture:materials:28>;
 val brownColor = <Mariculture:materials:32>;
