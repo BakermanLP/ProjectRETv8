@@ -1,5 +1,34 @@
 # Changelog
 
+## Version 1.7
+
+**Config Changes**
+
+**Mod updates / additions**
+- CraftTweaker-Customized-1.7.10-3.0.7-186-retv8.jar
+- Railcraft_1.7.10-9.11.0.0.jar
+- TechReborn-1.7.10-0.7.16.1106-universal.jar
+- Wawla-1.0.5.120.jar
+- WirelessCraftingTerminal-1.7.10-rv3-1.7.4b.jar
+
+## Version 1.6
+
+**Config Changes**
+
+**Mod updates / additions**
+- forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+- AppleCore-mc1.7.10-1.3.1.jar
+- appliedenergistics2-rv3-beta-6.jar
+- buildcraft-compat-7.1.4.jar
+- catwalks-2.0.4.jar
+- CraftTweaker-Customized-1.7.10-3.0.7.jar
+- Draconic-Evolution-1.7.10-1.0.2d.jar
+- EnderCore-1.7.10-0.2.0.34_beta.jar
+- forgeessentials-1.7.10-1.4.4.1165-client.jar
+- ImmersiveEngineering-0.7.6.jar
+- logisticspipes-0.9.3.120.jar
+- TechReborn-1.7.10-0.7.16.1104-universal.jar
+
 ## Version 1.5
 
 **Config Changes**
