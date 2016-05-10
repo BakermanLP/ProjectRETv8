@@ -38,7 +38,7 @@ furnace.remove(<RotaryCraft:rotarycraft_item_customingot:17>);
 
 # Phosphorite fix
 furnace.addRecipe(<Metallurgy:utility.item:1>, <RotaryCraft:rotarycraft_item_customextract:83>);
-furnace.remove(<RotaryCraft:rotarycraft_item_customingot:17>);
+furnace.remove(<RotaryCraft:rotarycraft_item_customingot:20>);
 
 # Potash fix
 furnace.addRecipe(<Metallurgy:utility.item:5>, <RotaryCraft:rotarycraft_item_customextract:87>);
