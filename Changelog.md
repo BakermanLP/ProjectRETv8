@@ -1,5 +1,18 @@
 # Changelog
 
+## Version 1.8
+
+**Config Changes**
+
+**Mod updates / additions**
+- DragonAPI 1.7.10 V13a.jar
+- ElectriCraft 1.7.10 V13a.jar
+- forgeessentials-1.7.10-1.4.4.1166-client.jar
+- generators-0.9.20.123-mc1.7.10.jar
+- ImmersiveEngineering-0.7.7.jar
+- ReactorCraft 1.7.10 V13a.jar
+- RotaryCraft 1.7.10 V13a.jar
+
 ## Version 1.7
 
 **Config Changes**

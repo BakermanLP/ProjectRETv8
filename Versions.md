@@ -33,9 +33,9 @@
 * darkcore-0.3-114.jar
 * denseores-1.6.2.jar
 * Draconic-Evolution-1.7.10-1.0.2d.jar
-* DragonAPI 1.7.10 V12e.jar
+* DragonAPI 1.7.10 V13a.jar
 * DynamicLights-1.7.10.jar
-* ElectriCraft 1.7.10 V12c.jar
+* ElectriCraft 1.7.10 V13a.jar
 * Enchiridion 2-1.7.10-2.0.2a.jar
 * EnderCore-1.7.10-0.2.0.34_beta.jar
 * EnderStorage-1.7.10-1.4.7.37-universal.jar
@@ -47,17 +47,17 @@
 * extrautilities-1.2.12.jar
 * fastcraft-1.23.jar
 * FloodLights-1.7.10-1.1.1-120.jar
-* forgeessentials-1.7.10-1.4.4.1165-client.jar
+* forgeessentials-1.7.10-1.4.4.1166-client.jar
 * funky-locomotion-1.7.10-beta-7.jar
 * GardenStuff-1.7.10-1.7.0.jar
-* generators-0.9.19.122-mc1.7.10.jar
+* generators-0.9.20.123-mc1.7.10.jar
 * GraviSuite-1.7.10-2.0.3.jar
 * growthcraft-1.7.10-2.5.2-complete.jar
 * HardcoreEnderExpansion  MC-1.7.10  v1.8.5.jar
 * ibench-1.7.10-1.0.12.jar
 * IC2NuclearControl-2.3.4a.jar
 * IguanaTinkerTweaks-1.7.10-2.1.6.jar
-* ImmersiveEngineering-0.7.6.jar
+* ImmersiveEngineering-0.7.7.jar
 * immersiveintegration-0.6.8.jar
 * industrialcraft-2-2.2.821-experimental.jar
 * InventoryTweaks-1.59-dev-152.jar
@@ -78,7 +78,6 @@
 * mobiuscore-1.7.10-1.2.5.jar
 * ModTweaker2-0.9.5.jar
 * Morpheus-1.7.10-1.6.21.jar
-* MouseTweaks-2.4.4-mc1.7.10.jar
 * natura-1.7.10-2.2.0.1.jar
 * neiaddons-1.12.15.41-mc1.7.10.jar
 * NEIIntegration-MC1.7.10-1.1.2.jar
@@ -93,7 +92,6 @@
 * OpenPeripheralCore-1.7.10-1.3.jar
 * OpenPeripheralIntegration-1.7.10-0.5.jar
 * opis-1.7.10-1.2.5.jar
-* OptiFine_1.7.10_HD_U_D1.jar
 * plantmegapack-4.33-1.7.10-1492.jar
 * PneumaticCraft-1.7.10-1.12.7-150-universal.jar
 * pressure-1.3.0.131-mc1.7.10.jar
@@ -105,13 +103,13 @@
 * ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 * Railcraft_1.7.10-9.11.0.0.jar
 * RandomThings-2.2.4.jar
-* ReactorCraft 1.7.10 V12d.jar
+* ReactorCraft 1.7.10 V13a.jar
 * RebornCore-1.1.0.15-universal.jar
 * RefinedRelocation-mc1.7.10-1.1.28.jar
 * ResourceLoader-MC1.7.10-1.3.jar
 * Restructured-1.7.10-1.0.2.0.jar
 * rftools-4.23.jar
-* RotaryCraft 1.7.10 V12e.jar
+* RotaryCraft 1.7.10 V13a.jar
 * RouterReborn-1.7.10-1.2.0.41-universal.jar
 * ScottsTweaks-1.7.10-1.3.1.jar
 * ServerSideChunkLoader-0.2.5.jar
