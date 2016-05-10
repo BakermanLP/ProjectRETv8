@@ -89,6 +89,15 @@ recipes.addShaped( trEnergyFlowCircuit, [
     [ic2AdvCircuit,plateTungsten,ic2AdvCircuit]
 ] );
 
+# Bugfix Iridium Alloy Ingot
+recipes.remove(<techreborn:part:23>);
+recipes.addShaped(<techreborn:part:23>, [
+    [<ore:ingotIridium>, <IC2:itemPartAlloy>, <ore:ingotIridium>], 
+    [<IC2:itemPartAlloy>, <techreborn:dust:25>, <IC2:itemPartAlloy>], 
+    [<ore:ingotIridium>, <IC2:itemPartAlloy>, <ore:ingotIridium>]
+]);
+
+
 ########################################################################################################################
 # Assembling Machine
 ########################################################################################################################
