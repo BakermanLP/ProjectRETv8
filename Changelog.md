@@ -1,5 +1,34 @@
 # Changelog
 
+## Version 1.9
+
+**Config Changes**
+
+**Mod updates / additions**
+- baublesstuff-2.1.2.jar
+- BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar
+- Carpenter's Blocks v3.3.8 - MC 1.7.10.jar
+- CraftTweaker-1.7.10-3.0.8.jar
+- Draconic-Evolution-1.7.10-1.0.2e.jar
+- DragonAPI 1.7.10 V13b.jar
+- ExtraCells-1.7.10-2.3.10b190.jar
+- ExtraTiC-1.7.10-1.4.6.jar
+- forgeessentials-1.7.10-1.4.4.1177-client.jar
+- IC2NuclearControl-2.4.0a.jar
+- industrialcraft-2-2.2.822-experimental.jar
+- logisticspipes-0.9.3.122.jar
+- NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+- ProgressiveAutomation-1.7.10-1.6.35.jar
+- Railcraft_1.7.10-9.12.2.0.jar
+- ReactorCraft 1.7.10 V13b.jar
+- StorageDrawers-1.7.10-1.9.8.jar
+- TechReborn-1.7.10-0.7.16.1108-universal.jar
+- TIS-3D-MC1.7.10-0.9.0.66.jar
+- VeinMiner-1.7.10_0.31.6.unknown.jar
+- WirelessCraftingTerminal-1.7.10-rv3-1.8.5b.jar
+- WTFCaveBiomes-1.7.10_v1.6.jar
+- WTFCore-1.7.10_v1.7.jar
+
 ## Version 1.8
 
 **Config Changes**
