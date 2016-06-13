@@ -1,4 +1,53 @@
+import minetweaker.item.IItemStack;
+
+###
+# Rotarycraft Extractor Outputs to original ingots
+###
+
+val furnacesSmelting = [
+  /* <Output>, <Input> */
+  [ <Metallurgy:tar>, <RotaryCraft:rotarycraft_item_customextract:19> ],
+  [ <Metallurgy:utility.item:3>, <RotaryCraft:rotarycraft_item_customextract:71> ],
+  [ <Metallurgy:utility.item:1>, <RotaryCraft:rotarycraft_item_customextract:83> ],
+  [ <Metallurgy:utility.item:5>, <RotaryCraft:rotarycraft_item_customextract:87> ],
+  [ <Metallurgy:adamantine.ingot>, <RotaryCraft:rotarycraft_item_customextract:3> ],
+  [ <Metallurgy:alduorite.ingot>, <RotaryCraft:rotarycraft_item_customextract:7> ],
+  [ <Metallurgy:astral.silver.ingot>, <RotaryCraft:rotarycraft_item_customextract:11> ],
+  [ <Metallurgy:atlarus.ingot>, <RotaryCraft:rotarycraft_item_customextract:15> ],
+  [ <Metallurgy:carmot.ingot>, <RotaryCraft:rotarycraft_item_customextract:23> ],
+  [ <Metallurgy:ceruclase.ingot>, <RotaryCraft:rotarycraft_item_customextract:27> ],
+  [ <Metallurgy:deep.iron.ingot>, <RotaryCraft:rotarycraft_item_customextract:31> ],
+  [ <Metallurgy:eximite.ingot>, <RotaryCraft:rotarycraft_item_customextract:35> ],
+  [ <Metallurgy:ignatius.ingot>, <RotaryCraft:rotarycraft_item_customextract:39> ],
+  [ <Metallurgy:infuscolium.ingot>, <RotaryCraft:rotarycraft_item_customextract:43> ],
+  [ <Metallurgy:lemurite.ingot>, <RotaryCraft:rotarycraft_item_customextract:47> ],
+  [ <Metallurgy:kalendrite.ingot>, <RotaryCraft:rotarycraft_item_customextract:51> ],
+  [ <Metallurgy:meutoite.ingot>, <RotaryCraft:rotarycraft_item_customextract:55> ],
+  [ <Metallurgy:midasium.ingot>, <RotaryCraft:rotarycraft_item_customextract:59> ],
+  [ <Metallurgy:mithril.ingot>, <RotaryCraft:rotarycraft_item_customextract:63> ],
+  [ <Metallurgy:manganese.ingot>, <RotaryCraft:rotarycraft_item_customextract:67> ],
+  [ <Metallurgy:orichalcum.ingot>, <RotaryCraft:rotarycraft_item_customextract:75> ],
+  [ <Metallurgy:oureclase.ingot>, <RotaryCraft:rotarycraft_item_customextract:79> ],
+  [ <Metallurgy:prometheum.ingot>, <RotaryCraft:rotarycraft_item_customextract:91> ],
+  [ <Metallurgy:rubracium.ingot>, <RotaryCraft:rotarycraft_item_customextract:95> ],
+  [ <Metallurgy:sanguinite.ingot>, <RotaryCraft:rotarycraft_item_customextract:99> ],
+  [ <Metallurgy:shadow.iron.ingot>, <RotaryCraft:rotarycraft_item_customextract:103> ],
+  [ <Metallurgy:vulcanite.ingot>, <RotaryCraft:rotarycraft_item_customextract:107> ],
+  [ <Metallurgy:vyroxeres.ingot>, <RotaryCraft:rotarycraft_item_customextract:111> ],
+] as IItemStack[][];
+
+for entry in furnacesSmelting
+{
+  var output = entry[ 0 ];
+  var input  = entry[ 1 ];
+  
+  furnace.remove(<*>, input);
+  furnace.addRecipe( output, input, 0.5 );
+}
+
+###
 # Fix some OreDict problems about Metallury and RotaryCraft
+###
 <ore:ingotAdamantine>.add( <RotaryCraft:rotarycraft_item_customingot> );
 <ore:ingotAlduorite>.add( <RotaryCraft:rotarycraft_item_customingot:1> );
 <ore:ingotAstralSilver>.add( <RotaryCraft:rotarycraft_item_customingot:2> );
@@ -28,18 +77,4 @@
 <ore:ingotVulcanite>.add( <RotaryCraft:rotarycraft_item_customingot:26> );
 <ore:ingotVyroxeres>.add( <RotaryCraft:rotarycraft_item_customingot:27> );
 
-# Bitumen fix
-furnace.addRecipe(<Metallurgy:tar>, <RotaryCraft:rotarycraft_item_customextract:19>);
-furnace.remove(<RotaryCraft:rotarycraft_item_customingot:4>);
-
-# Magnesium fix
-furnace.addRecipe(<Metallurgy:utility.item:3>, <RotaryCraft:rotarycraft_item_customextract:71>);
-furnace.remove(<RotaryCraft:rotarycraft_item_customingot:17>);
-
-# Phosphorite fix
-furnace.addRecipe(<Metallurgy:utility.item:1>, <RotaryCraft:rotarycraft_item_customextract:83>);
-furnace.remove(<RotaryCraft:rotarycraft_item_customingot:20>);
-
-# Potash fix
-furnace.addRecipe(<Metallurgy:utility.item:5>, <RotaryCraft:rotarycraft_item_customextract:87>);
-furnace.remove(<RotaryCraft:rotarycraft_item_customingot:21>);
+# vim:et:sw=4:sts=4:ts=4
