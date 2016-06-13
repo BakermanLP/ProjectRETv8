@@ -1,5 +1,34 @@
 # Changelog
 
+## Version 2.0
+- Output of RotaryCraft Ingots changed
+
+**Config Changes**
+
+**Mod updates / additions**
+- [1.7.10]WailaAddonBC-1.0.4.1.jar
+- AOBD-2.9.2.jar
+- AppleCore-mc1.7.10-1.3.2.jar
+- baublelicious-1.7.10-1.2.1.jar
+- CraftTweaker-1.7.10-3.0.9.jar
+- darkcore-0.41-179.jar
+- DragonAPI 1.7.10 V14d.jar
+- ElectriCraft 1.7.10 V14c.jar
+- EnderCore-1.7.10-0.2.0.35_beta.jar
+- FloodLights-1.7.10-1.2.1-134.jar
+- forgeessentials-1.7.10-1.4.4.1182-client.jar
+- IC2NuclearControl-2.4.0b.jar
+- logisticspipes-0.9.3.125.jar
+- magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar
+- OptiFine_1.7.10_HD_U_D4.jar
+- ReactorCraft 1.7.10 V14d.jar
+- RotaryCraft 1.7.10 V14d.jar
+- Schematica-1.7.10-1.7.6.131-universal.jar
+- SpiceOfLife-mc1.7.10-1.3.2.jar
+- tardismod-1.7.10-0.995-350.jar
+- TechReborn-1.7.10-0.7.17.1109-universal.jar
+- WirelessCraftingTerminal-1.7.10-rv3-1.8.7b.jar
+
 ## Version 1.9
 
 **Config Changes**
