@@ -17,6 +17,7 @@
         "minecraft:wooden_axe"
       ],
       "blocklist": [
+        "Growthcraft|Apples:grc.appleLeaves",
         "Growthcraft|Bamboo:grc.bambooLeaves/0",
         "IC2:blockRubLeaves",
         "IC2:blockRubWood",
@@ -314,6 +315,7 @@
         "minecraft:shears"
       ],
       "blocklist": [
+        "Growthcraft|Apples:grc.appleLeaves",
         "Growthcraft|Bamboo:grc.bambooLeaves/0",
         "IC2:blockRubLeaves",
         "Natura:Dark Leaves",

@@ -4,6 +4,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Grapes",
         "mod_id": "Growthcraft|Grapes",
         "name": "grc.grapes",
@@ -11,12 +12,13 @@
         "meta": 0
       },
       "fluid": {
-        "comment": "Grape Wine",
+        "comment": "Grape Juice",
         "name": "grc.grapewine0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.3,
+        "ore": null,
         "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",
@@ -30,16 +32,19 @@
       "item": {
         "ore": "foodApple",
         "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
         "meta": 32767
       },
       "fluid": {
-        "comment": "Apple Cider",
+        "comment": "Apple Juice",
         "name": "grc.applecider0",
         "amount": 40
       },
       "residue": {
         "pomace": 0.3,
+        "ore": null,
         "comment": "Bone Meal",
         "mod_id": "minecraft",
         "name": "dye",

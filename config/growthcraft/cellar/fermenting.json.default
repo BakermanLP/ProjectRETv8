@@ -4,15 +4,22 @@
     {
       "comment": "",
       "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead0",
+        "name": null,
+        "names": [],
+        "inclusion_tags": [
+          "young",
+          "mead"
+        ],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -25,6 +32,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
@@ -32,8 +40,14 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead0",
+        "name": null,
+        "names": [],
+        "inclusion_tags": [
+          "young",
+          "mead"
+        ],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -46,15 +60,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead1",
+        "name": null,
+        "names": [
+          "grc.honeymead1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -67,15 +87,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead3",
+        "name": null,
+        "names": [
+          "grc.honeymead3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -88,36 +114,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead1",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead3",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead2",
+        "name": null,
+        "names": [
+          "grc.honeymead1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -130,15 +141,48 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
         "comment": "Mead",
-        "name": "grc.honeymead2",
+        "name": "grc.honeymead3",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -151,15 +195,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead3",
+        "name": null,
+        "names": [
+          "grc.honeymead3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -172,15 +222,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead2",
+        "name": null,
+        "names": [
+          "grc.honeymead2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -193,15 +249,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Mead",
-        "name": "grc.honeymead3",
+        "name": null,
+        "names": [
+          "grc.honeymead3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -214,15 +276,183 @@
     {
       "comment": "",
       "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine0",
+        "name": null,
+        "names": [
+          "grc.honeymead0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "grc.honeymead6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "grc.honeymead6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "grc.honeymead6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "grc.honeymead6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead4"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "grc.honeymead6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.honeymead5"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Mead",
+        "name": "grc.honeymead6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -235,6 +465,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
@@ -242,8 +473,13 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine0",
+        "name": null,
+        "names": [
+          "grc.grapewine0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -256,15 +492,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine1",
+        "name": null,
+        "names": [
+          "grc.grapewine1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -277,15 +519,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine3",
+        "name": null,
+        "names": [
+          "grc.grapewine3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -298,36 +546,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine1",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine3",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine2",
+        "name": null,
+        "names": [
+          "grc.grapewine1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -340,15 +573,48 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
         "comment": "Grape Wine",
-        "name": "grc.grapewine2",
+        "name": "grc.grapewine3",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -361,15 +627,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine3",
+        "name": null,
+        "names": [
+          "grc.grapewine3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -382,38 +654,212 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Grape Wine",
+        "name": "grc.grapewine6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Grape Wine",
+        "name": "grc.grapewine6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Grape Wine",
+        "name": "grc.grapewine1",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
         "comment": "Grape Wine",
         "name": "grc.grapewine2",
         "amount": 1
       },
-      "output_fluid": {
-        "comment": "Grape Wine",
-        "name": "grc.grapewine6",
-        "amount": 1
-      },
       "time": 24000
     },
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
         "comment": "Grape Wine",
         "name": "grc.grapewine3",
         "amount": 1
       },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ambrosia",
+        "name": "grc.grapewine4",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Port Wine",
+        "name": "grc.grapewine5",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.grapewine7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
       "output_fluid": {
         "comment": "Grape Wine",
         "name": "grc.grapewine6",
@@ -424,15 +870,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale0",
+        "name": null,
+        "names": [
+          "grc.hopale0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -445,6 +897,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
@@ -452,8 +905,13 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale0",
+        "name": null,
+        "names": [
+          "grc.hopale0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -466,15 +924,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale1",
+        "name": null,
+        "names": [
+          "grc.hopale1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -487,15 +951,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale3",
+        "name": null,
+        "names": [
+          "grc.hopale3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -508,36 +978,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale1",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale3",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale2",
+        "name": null,
+        "names": [
+          "grc.hopale1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -550,15 +1005,48 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
         "comment": "Ale",
-        "name": "grc.hopale2",
+        "name": "grc.hopale3",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -571,15 +1059,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale3",
+        "name": null,
+        "names": [
+          "grc.hopale3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -592,15 +1086,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Lager Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastLager",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 1
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale5",
+        "name": null,
+        "names": [
+          "grc.hopale5"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -613,15 +1113,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale2",
+        "name": null,
+        "names": [
+          "grc.hopale2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -634,15 +1140,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Ale",
-        "name": "grc.hopale3",
+        "name": null,
+        "names": [
+          "grc.hopale3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -655,15 +1167,183 @@
     {
       "comment": "",
       "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager0",
+        "name": null,
+        "names": [
+          "grc.hopale1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "grc.hopale8",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "grc.hopale8",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "grc.hopale8",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale5"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "grc.hopale8",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale6"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "grc.hopale8",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.hopale7"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Ale",
+        "name": "grc.hopale8",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -676,6 +1356,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
@@ -683,8 +1364,13 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager0",
+        "name": null,
+        "names": [
+          "grc.lager0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -697,15 +1383,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager1",
+        "name": null,
+        "names": [
+          "grc.lager1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -718,15 +1410,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager3",
+        "name": null,
+        "names": [
+          "grc.lager3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -739,36 +1437,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager1",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager3",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager2",
+        "name": null,
+        "names": [
+          "grc.lager1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -781,15 +1464,48 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
         "comment": "Lager",
-        "name": "grc.lager2",
+        "name": "grc.lager3",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -802,15 +1518,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager3",
+        "name": null,
+        "names": [
+          "grc.lager3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -823,15 +1545,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager2",
+        "name": null,
+        "names": [
+          "grc.lager2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -844,15 +1572,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Lager",
-        "name": "grc.lager3",
+        "name": null,
+        "names": [
+          "grc.lager3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -865,6 +1599,169 @@
     {
       "comment": "",
       "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "grc.lager6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "grc.lager6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "grc.lager6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "grc.lager6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager4"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "grc.lager6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.lager5"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Lager",
+        "name": "grc.lager6",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
         "comment": "Brewers Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
@@ -872,8 +1769,283 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake0",
+        "name": null,
+        "names": [
+          "grcmilk.milk"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis0",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Nether Wart",
+        "mod_id": "minecraft",
+        "name": "nether_wart",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.milk"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis0",
+        "amount": 1
+      },
+      "time": 15840
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis1",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis1",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis2",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis2",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ethereal Yeast",
+        "mod_id": "Growthcraft|Cellar",
+        "name": "grc.yeast",
+        "amount": 1,
+        "meta": 3
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis3",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Ethereal Yeast",
+        "mod_id": "Growthcraft|Cellar",
+        "name": "grc.yeast",
+        "amount": 1,
+        "meta": 3
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis3",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Origin Yeast",
+        "mod_id": "Growthcraft|Cellar",
+        "name": "grc.yeast",
+        "amount": 1,
+        "meta": 4
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis4",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Origin Yeast",
+        "mod_id": "Growthcraft|Cellar",
+        "name": "grc.yeast",
+        "amount": 1,
+        "meta": 4
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grcmilk.kumis2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Kumis",
+        "name": "grcmilk.kumis4",
+        "amount": 1
+      },
+      "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Brewers Yeast",
+        "mod_id": "Growthcraft|Cellar",
+        "name": "grc.yeast",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grc.ricesake0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -886,6 +2058,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
@@ -893,8 +2066,13 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake0",
+        "name": null,
+        "names": [
+          "grc.ricesake0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -907,15 +2085,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake1",
+        "name": null,
+        "names": [
+          "grc.ricesake1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -928,15 +2112,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake3",
+        "name": null,
+        "names": [
+          "grc.ricesake3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -949,15 +2139,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake1",
+        "name": null,
+        "names": [
+          "grc.ricesake1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -970,15 +2166,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake2",
+        "name": null,
+        "names": [
+          "grc.ricesake2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -991,6 +2193,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Ethereal Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
@@ -998,8 +2201,13 @@
         "meta": 3
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake2",
+        "name": null,
+        "names": [
+          "grc.ricesake2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1012,6 +2220,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Ethereal Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
@@ -1019,8 +2228,13 @@
         "meta": 3
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake3",
+        "name": null,
+        "names": [
+          "grc.ricesake3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1033,6 +2247,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Origin Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
@@ -1040,8 +2255,13 @@
         "meta": 4
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake2",
+        "name": null,
+        "names": [
+          "grc.ricesake2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1054,6 +2274,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Origin Yeast",
         "mod_id": "Growthcraft|Cellar",
         "name": "grc.yeast",
@@ -1061,8 +2282,13 @@
         "meta": 4
       },
       "input_fluid": {
-        "comment": "Sake",
-        "name": "grc.ricesake3",
+        "name": null,
+        "names": [
+          "grc.ricesake3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1075,15 +2301,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider0",
+        "name": null,
+        "names": [
+          "grc.applecider0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1096,6 +2328,7 @@
     {
       "comment": "",
       "item": {
+        "ore": null,
         "comment": "Nether Wart",
         "mod_id": "minecraft",
         "name": "nether_wart",
@@ -1103,8 +2336,13 @@
         "meta": 0
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider0",
+        "name": null,
+        "names": [
+          "grc.applecider0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1117,15 +2355,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider1",
+        "name": null,
+        "names": [
+          "grc.applecider1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1138,15 +2382,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider3",
+        "name": null,
+        "names": [
+          "grc.applecider3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1159,15 +2409,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider1",
+        "name": null,
+        "names": [
+          "grc.applecider1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1180,15 +2436,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider2",
+        "name": null,
+        "names": [
+          "grc.applecider2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1201,15 +2463,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastEthereal",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 3
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider1",
+        "name": null,
+        "names": [
+          "grc.applecider1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1222,15 +2490,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider2",
+        "name": null,
+        "names": [
+          "grc.applecider2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1243,15 +2517,21 @@
     {
       "comment": "",
       "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastOrigin",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 4
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Apple Cider",
-        "name": "grc.applecider3",
+        "name": null,
+        "names": [
+          "grc.applecider3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
@@ -1264,20 +2544,26 @@
     {
       "comment": "",
       "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Milk",
-        "name": "grcmilk.milk",
+        "name": null,
+        "names": [
+          "grc.applecider0"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis0",
+        "comment": "Apple Cider",
+        "name": "grc.applecider6",
         "amount": 1
       },
       "time": 24000
@@ -1285,41 +2571,26 @@
     {
       "comment": "",
       "item": {
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Milk",
-        "name": "grcmilk.milk",
+        "name": null,
+        "names": [
+          "grc.applecider1"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis0",
-        "amount": 1
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Brewers Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "comment": "Milk",
-        "name": "milk",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis0",
+        "comment": "Apple Cider",
+        "name": "grc.applecider6",
         "amount": 1
       },
       "time": 24000
@@ -1327,41 +2598,26 @@
     {
       "comment": "",
       "item": {
-        "comment": "Nether Wart",
-        "mod_id": "minecraft",
-        "name": "nether_wart",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Milk",
-        "name": "milk",
+        "name": null,
+        "names": [
+          "grc.applecider2"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis0",
-        "amount": 1
-      },
-      "time": 15840
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
-        "amount": 1,
-        "meta": 0
-      },
-      "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis0",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis1",
+        "comment": "Apple Cider",
+        "name": "grc.applecider6",
         "amount": 1
       },
       "time": 24000
@@ -1369,20 +2625,26 @@
     {
       "comment": "",
       "item": {
-        "comment": "Glowstone Dust",
-        "mod_id": "minecraft",
-        "name": "glowstone_dust",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis2",
+        "name": null,
+        "names": [
+          "grc.applecider3"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis1",
+        "comment": "Apple Cider",
+        "name": "grc.applecider6",
         "amount": 1
       },
       "time": 24000
@@ -1390,20 +2652,26 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis0",
+        "name": null,
+        "names": [
+          "grc.applecider4"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis2",
+        "comment": "Apple Cider",
+        "name": "grc.applecider6",
         "amount": 1
       },
       "time": 24000
@@ -1411,104 +2679,26 @@
     {
       "comment": "",
       "item": {
-        "comment": "Redstone",
-        "mod_id": "minecraft",
-        "name": "redstone",
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
         "amount": 1,
-        "meta": 0
+        "meta": 32767
       },
       "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis1",
+        "name": null,
+        "names": [
+          "grc.applecider5"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
         "amount": 1
       },
       "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis2",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
-        "amount": 1,
-        "meta": 3
-      },
-      "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis1",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis3",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Ethereal Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
-        "amount": 1,
-        "meta": 3
-      },
-      "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis2",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis3",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
-        "amount": 1,
-        "meta": 4
-      },
-      "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis1",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis4",
-        "amount": 1
-      },
-      "time": 24000
-    },
-    {
-      "comment": "",
-      "item": {
-        "comment": "Origin Yeast",
-        "mod_id": "Growthcraft|Cellar",
-        "name": "grc.yeast",
-        "amount": 1,
-        "meta": 4
-      },
-      "input_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis2",
-        "amount": 1
-      },
-      "output_fluid": {
-        "comment": "Kumis",
-        "name": "grcmilk.kumis4",
+        "comment": "Apple Cider",
+        "name": "grc.applecider6",
         "amount": 1
       },
       "time": 24000

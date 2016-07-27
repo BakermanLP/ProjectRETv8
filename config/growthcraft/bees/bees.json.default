@@ -4,6 +4,7 @@
     {
       "comment": "Growthcraft\u0027s default bee",
       "item": {
+        "ore": null,
         "comment": "Bee",
         "mod_id": "Growthcraft|Bees",
         "name": "grc.bee",

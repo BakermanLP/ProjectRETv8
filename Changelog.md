@@ -1,5 +1,44 @@
 # Changelog
 
+## Version 2.2
+
+**Config Changes**
+- Some minor changes because of mod updates
+
+**Mod updates / additions**
+- CraftTweaker-1.7.10-3.0.10.jar
+- Draconic-Evolution-1.7.10-1.0.2h.jar
+- growthcraft-1.7.10-2.6.2-complete.jar
+- HardcoreEnderExpansion  MC-1.7.10  v1.8.6.jar
+- IC2NuclearControl-2.4.1a.jar
+- logisticspipes-0.9.3.126.jar
+- RouterReborn-1.7.10-1.2.0.42-universal.jar
+- StorageDrawers-1.7.10-1.10.0.jar
+- TechReborn-1.7.10-0.7.18.1110-universal.jar
+- VeinMiner-0.34.1-1.7.10r473+4d066f1.jar
+
+## Version 2.1
+
+**Config Changes**
+- Added recipe for radiation goggles
+- Some minor changes because of mod updates
+
+**Mod updates / additions**
+- [1.7.10]WailaAddonBC-1.0.5.jar
+- Draconic-Evolution-1.7.10-1.0.2g.jar
+- DragonAPI 1.7.10 V15a.jar
+- ElectriCraft 1.7.10 V15a.jar
+- EnderCore-1.7.10-0.2.0.36_beta.jar
+- Ewy's Workshop-1.1.2.jar
+- ExtraCells-1.7.10-2.3.14b197.jar
+- growthcraft-1.7.10-2.6.1-complete.jar
+- ReactorCraft 1.7.10 V15a.jar
+- RotaryCraft 1.7.10 V15a.jar
+- StorageDrawers-1.7.10-1.9.9.jar
+- VeinMiner-0.33.0-1.7.10r466+986afb0.jar
+- WirelessCraftingTerminal-1.7.10-rv3-1.8.7.1b.jar
+- [1.7.10]WailaAddonBC-1.0.4.1.jar
+
 ## Version 2.0
 - Output of RotaryCraft Ingots changed
 

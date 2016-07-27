@@ -77,4 +77,17 @@ for entry in furnacesSmelting
 <ore:ingotVulcanite>.add( <RotaryCraft:rotarycraft_item_customingot:26> );
 <ore:ingotVyroxeres>.add( <RotaryCraft:rotarycraft_item_customingot:27> );
 
+###
+# Radiation Goggles
+###
+val rcRadiationGoggles = <ReactorCraft:reactorcraft_item_goggles>;
+val rcIOGoggles = <RotaryCraft:rotarycraft_item_iogoggles>;
+val lapis = <minecraft:dye:4>;
+
+recipes.addShaped( rcRadiationGoggles * 1, [
+     [lapis, rcIOGoggles, lapis],
+     [null,null,null],
+     [null,null,null]
+] );
+
 # vim:et:sw=4:sts=4:ts=4

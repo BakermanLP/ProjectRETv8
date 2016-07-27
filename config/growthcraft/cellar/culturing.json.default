@@ -4,6 +4,7 @@
     {
       "comment": "",
       "output_item": {
+        "ore": null,
         "comment": "Starter Culture",
         "mod_id": "Growthcraft|Milk",
         "name": "grcmilk.StarterCulture",
