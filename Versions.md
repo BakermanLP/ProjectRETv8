@@ -15,7 +15,7 @@
 * BetterBuildersWands-0.6.1-1.7.10r80+358ee26.jar
 * BiblioCraft[v1.11.4][MC1.7.10].jar
 * BrandonsCore-1.0.0.12.jar
-* buildcraft-7.1.16.jar
+* buildcraft-7.1.17.jar
 * BuildcraftAdditions-1.7.10-2.2.5.jar
 * buildcraft-compat-7.1.4.jar
 * Carpenter's Blocks v3.3.8 - MC 1.7.10.jar
@@ -25,7 +25,7 @@
 * ChunkAnimator-MC1.7.10-1.0.1.jar
 * ChunkPurge-1.7.10-2.1.jar
 * CodeChickenCore-1.7.10-1.0.7.47-universal.jar
-* CoFHCore-[1.7.10]3.1.2-325.jar
+* CoFHCore-[1.7.10]3.1.3-327.jar
 * compacter-1.2.1.15-mc1.7.10.jar
 * Computronics-1.7.10-1.6.0.jar
 * craftingtweaks-mc1.7.10-1.0.82.jar
@@ -48,20 +48,19 @@
 * ExtraTiC-1.7.10-1.4.6.jar
 * extrautilities-1.2.12.jar
 * fastcraft-1.23.jar
-* FloodLights-1.7.10-1.2.1-134.jar
-* forgeessentials-1.7.10-1.4.4.1182-client.jar
+* FloodLights-1.7.10-1.2.8-137.jar
 * funky-locomotion-1.7.10-beta-7.jar
 * GardenStuff-1.7.10-1.7.0.jar
 * generators-0.9.20.123-mc1.7.10.jar
 * GraviSuite-1.7.10-2.0.3.jar
-* growthcraft-1.7.10-2.6.2-complete.jar
+* growthcraft-1.7.10-2.6.3-complete.jar
 * HardcoreEnderExpansion  MC-1.7.10  v1.8.6.jar
 * ibench-1.7.10-1.0.12.jar
 * IC2NuclearControl-2.4.1a.jar
 * IguanaTinkerTweaks-1.7.10-2.1.6.jar
 * ImmersiveEngineering-0.7.7.jar
 * immersiveintegration-0.6.8.jar
-* industrialcraft-2-2.2.822-experimental.jar
+* industrialcraft-2-2.2.823-experimental.jar
 * InventoryTweaks-1.59-dev-152.jar
 * IronBackpacks-1.7.10-1.2.15.jar
 * ironchest-1.7.10-6.0.60.741-universal.jar
@@ -105,6 +104,7 @@
 * ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar
 * ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
 * ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+* Quadrum-1.7.10-1.2.0.B13-universal.jar
 * Railcraft_1.7.10-9.12.2.0.jar
 * RandomThings-2.2.4.jar
 * ReactorCraft 1.7.10 V15a.jar
@@ -114,12 +114,12 @@
 * Restructured-1.7.10-1.0.2.0.jar
 * rftools-4.23.jar
 * RotaryCraft 1.7.10 V15a.jar
-* RouterReborn-1.7.10-1.2.0.42-universal.jar
+* RouterReborn-1.7.10-1.2.0.43-universal.jar
 * ScottsTweaks-1.7.10-1.3.1.jar
 * ServerSideChunkLoader-0.2.5.jar
 * SpecialAI-1.7.10-1.1.2.jar
-* SpiceOfLife-mc1.7.10-1.3.2.jar
-* StorageDrawers-1.7.10-1.10.0.jar
+* SpiceOfLife-mc1.7.10-1.3.4.jar
+* StorageDrawers-1.7.10-1.10.1.jar
 * supercraftingframe-1.7.10.3.jar
 * tardismod-1.7.10-0.995-350.jar
 * TConstruct-1.7.10-1.8.8.jar
@@ -134,7 +134,6 @@
 * WAILAPlugins-MC1.7.10-0.2.0-23.jar
 * Wawla-1.0.5.120.jar
 * WirelessCraftingTerminal-1.7.10-rv3-1.8.7.1b.jar
-* worldedit-forge-mc1.7.10-6.1.1-dist.jar
 * WTFCaveBiomes-1.7.10_v1.6.jar
 * WTFCore-1.7.10_v1.7.jar
 * Ztones-1.7.10-2.2.1.jar

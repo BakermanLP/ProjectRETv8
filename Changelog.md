@@ -1,5 +1,23 @@
 # Changelog
 
+## Version 2.3
+
+**Config Changes**
+- Added new crops
+- fix #35 : Pneumaticraft Speed Upgrades
+- some minor changes
+
+**Mod updates / additions**
+- buildcraft-7.1.17.jar
+- CoFHCore-[1.7.10]3.1.3-327.jar
+- FloodLights-1.7.10-1.2.8-137.jar
+- growthcraft-1.7.10-2.6.3-complete.jar
+- industrialcraft-2-2.2.823-experimental.jar
+- Quadrum-1.7.10-1.2.0.B13-universal.jar
+- RouterReborn-1.7.10-1.2.0.43-universal.jar
+- SpiceOfLife-mc1.7.10-1.3.4.jar
+- StorageDrawers-1.7.10-1.10.1.jar
+
 ## Version 2.2
 
 **Config Changes**
