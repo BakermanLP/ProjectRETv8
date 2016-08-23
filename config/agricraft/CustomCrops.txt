@@ -14,3 +14,4 @@
 #this will need textures cropClaysanthemum1, cropClaysanthemum2, Claysanthemum3, Claysanthemum4 in the agricraft/textures/blocks folder and seedClaysanthemum in the agricraft/textures/items folder of your resourcepack.
 #Note the capitalization, always put a capital in the texture name. Also, this crop will not grow unless it has a hardened clay block underneath the block of farmland it's on
 AwakendDraconium,Quadrum:awakendDraconium,null,null,4,1,Essence of Awakend Draconium
+BedrockDust,Quadrum:bedrockDust,null,null,4,1,Essence of Bedrock Dust

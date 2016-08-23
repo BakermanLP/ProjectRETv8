@@ -44,4 +44,26 @@ recipes.addShaped(seedAwakDrac * 1, [
 
 vanilla.seeds.removeSeed(seedAwakDrac);
 
+########################################################################################################################
+# Adding Bedrock Dust
+########################################################################################################################
+
+val seedBedrockDust = <AgriCraft:seedBedrockDust>;
+val essBedrockDust = <Quadrum:bedrockDust>;
+val blockBedrock = <RotaryCraft:rotarycraft_block_deco:4>;
+
+recipes.addShaped(blockBedrock * 1, [
+    [essBedrockDust, essBedrockDust, essBedrockDust],
+    [essBedrockDust, essBedrockDust, essBedrockDust],
+    [essBedrockDust, essBedrockDust, essBedrockDust]
+] );
+
+recipes.addShaped(seedBedrockDust * 1, [
+    [blockBedrock, blockBedrock, blockBedrock],
+    [blockBedrock, minicioSeed, blockBedrock],
+    [blockBedrock, blockBedrock, blockBedrock]
+] );
+
+vanilla.seeds.removeSeed(seedBedrockDust);
+
 # vim:et:sw=4:sts=4:ts=4
